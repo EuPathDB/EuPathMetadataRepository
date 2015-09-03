@@ -1,0 +1,2 @@
+"Source Name"	"Sample Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[strain]"	"Term Source REF"	"Term Accession Number"
+"TU114"	"TU114"	"Cryptosporidium parvum"	""	""	"TU114"	""	""
