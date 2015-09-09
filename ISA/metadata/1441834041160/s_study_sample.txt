@@ -1,0 +1,115 @@
+Source Name	Characteristics[strain]	Characteristics[geographic location]	Characteristics[country]	Characteristics[environmental feature]	Characteristics[host organism]	Characteristics[organism]	Comment[subject]
+3D7	3D7	Netherlands	Netherlands	MRA-151	human	Plasmodium falciparum 3D7	S
+HB3	HB3	Honduras	Honduras	MRA-155	human	Plasmodium falciparum 3D7	S
+Dd2	Dd2	Laos	Laos	MRA-156	human	Plasmodium falciparum 3D7	S
+7G8	7G8	Brazil	Brazil	MRA-152	human	Plasmodium falciparum 3D7	S
+D10	D10	Papua New Guinea	Papua New Guinea	MRA-201	human	Plasmodium falciparum 3D7	S
+D6	D6	Sierra Leone	Sierra Leone	MRA-285	human	Plasmodium falciparum 3D7	S
+K1	K1	Thailand	Thailand	MRA-159	human	Plasmodium falciparum 3D7	S
+RO-33	RO-33	Ghana	Ghana	MRA-200	human	Plasmodium falciparum 3D7	S
+Santa Lucia	Santa Lucia	El Salvador	El Salvador	MRA-362	human	Plasmodium falciparum 3D7	S
+Senegal P31.01	Senegal P31.01	Senegal	Senegal	J. Daily	human	Plasmodium falciparum 3D7	S
+Senegal P51.02	Senegal P51.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal V34.04	Senegal V34.04	Senegal	Senegal	J. Daily	human	Plasmodium falciparum 3D7	S
+Senegal V35.04	Senegal V35.04	Senegal	Senegal	J. Daily	human	Plasmodium falciparum 3D7	S
+V1/S	V1/S	Vietnam	Vietnam	MRA-176	human	Plasmodium falciparum 3D7	S
+Malayan Camp	Malayan Camp	Malaysia	Malaysia	MRA-330	human	Plasmodium falciparum 3D7	S
+51	51	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+608	608	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+10/10B	10/10B	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+10_54	10_54	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+207_89	207_89	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+35_26	35_26	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	S
+36_89	36_89	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+365_89	365_89	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+9_411	9_411	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	S
+APO41	APO41	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	S
+FCC-2	FCC-2	China	China	MRA-733	human	Plasmodium falciparum 3D7	S
+GH2	GH2	Thailand	Thailand	Dennis Kyle	human	Plasmodium falciparum 3D7	S
+IGHCR14	IGHCR14	India	India	A. Dash/C.Chitnis	human	Plasmodium falciparum 3D7	S
+Indochina I	Indochina I	Indochina	Indochina	MRA-347	human	Plasmodium falciparum 3D7	S
+M24	M24	Kenya	Kenya	X. Su	human	Plasmodium falciparum 3D7	S
+Malawi CF04.008 10B	Malawi CF04.008 10B	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.008 12G	Malawi CF04.008 12G	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.008 1F	Malawi CF04.008 1F	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.008 2G	Malawi CF04.008 2G	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.008 7H	Malawi CF04.008 7H	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.009	Malawi CF04.009	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.009 1G	Malawi CF04.009 1G	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.009 6D	Malawi CF04.009 6D	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Malawi CF04.010 10B	Malawi CF04.010 10B	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	S
+Mali PS189	Mali PS189	Mali	Mali	A. Djimde/C. Plowe	human	Plasmodium falciparum 3D7	S
+Muz51.1	Muz51.1	Papua New Guinea	Papua New Guinea	Karen Day	human	Plasmodium falciparum 3D7	S
+PR145	PR145	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	S
+RAJ116	RAJ116	India	India	A. Dash/C.Chitnis	human	Plasmodium falciparum 3D7	S
+RS1	RS1	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	S
+SA2	SA2	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	S
+Senegal P05.02	Senegal P05.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P08.04	Senegal P08.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P09.04	Senegal P09.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P11.02	Senegal P11.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P137.05	Senegal P137.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	S
+Senegal P19.04	Senegal P19.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P26.04	Senegal P26.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P27.02	Senegal P27.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P35.04	Senegal P35.04	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	S
+Senegal P60.02	Senegal P60.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal P90.05	Senegal P90.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	S
+Senegal Thi15.04	Senegal Thi15.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal Thi26.04	Senegal Thi26.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal Thi28.04	Senegal Thi28.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	S
+Senegal V42.05	Senegal V42.05	Senegal	Senegal	Dan Milner	human	Plasmodium falciparum 3D7	S
+T2/C6	T2/C6	Thailand	Thailand	MRA-818	human	Plasmodium falciparum 3D7	S
+TD203	TD203	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	S
+TD257	TD257	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	S
+TM327	TM327	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	S
+TM345	TM345	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	S
+TM90C2A	TM90C2A	Thailand	Thailand	MRA-202	human	Plasmodium falciparum 3D7	S
+TM90C6B	TM90C6B	Thailand	Thailand	MRA-205	human	Plasmodium falciparum 3D7	S
+TM91C235	TM91C235	Thailand	Thailand	MRA-206	human	Plasmodium falciparum 3D7	S
+JST	JST	Brazil	Brazil	Sandra do Lago Moraes	human	Plasmodium falciparum 3D7	S
+106/1	106/1	Sudan	Sudan	MRA-464	human	Plasmodium falciparum 3D7	S
+FCB	FCB	Southeast Asia	Southeast Asia	MRA-309	human	Plasmodium falciparum 3D7	S
+FCR3	FCR3	Gambia	Gambia	MRA-158	human	Plasmodium falciparum 3D7	S
+ITG-2G2	ITG-2G2	Brazil	Brazil	MRA-326	human	Plasmodium falciparum 3D7	S
+T9-94	T9-94	Thailand	Thailand	MRA-153	human	Plasmodium falciparum 3D7	S
+W2	W2	Indochina	Indochina	MRA-157	human	Plasmodium falciparum 3D7	S
+W2mef	W2mef	Indochina	Indochina	Dennis Kyle	human	Plasmodium falciparum 3D7	S
+TM90C6A	TM90C6A	Thailand	Thailand	MRA-204	human	Plasmodium falciparum 3D7	S
+TM91C1088	TM91C1088	Thailand	Thailand	MRA-207	human	Plasmodium falciparum 3D7	S
+ADA-2	ADA-2	Brazil	Brazil	Sandra do Lago Moraes	human	Plasmodium falciparum 3D7	S
+MT/s1	MT/s1	Mali	Mali	MRA-822	human	Plasmodium falciparum 3D7	S
+WR87	WR87	Vietnam	Vietnam	MRA-284	human	Plasmodium falciparum 3D7	S
+330_89	330_89	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	M
+608_88	608_88	Brazil	Brazil	Alejandro Miguel Katzin	human	Plasmodium falciparum 3D7	M
+APO-42	APO-42	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	M
+CH3	CH3	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	M
+CH4	CH4	Nigeria	Nigeria	Christian Happi	human	Plasmodium falciparum 3D7	M
+FCR8	FCR8	China	China	MRA-732	human	Plasmodium falciparum 3D7	M
+Malawi 2257/10H	Malawi 2257/10H	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	M
+Malawi CF04.008	Malawi CF04.008	Malawi	Malawi	Dan Milner	human	Plasmodium falciparum 3D7	M
+Mali PS149	Mali PS149	Mali	Mali	A. Djimde/C. Plowe	human	Plasmodium falciparum 3D7	M
+Mali PS186	Mali PS186	Mali	Mali	A. Djimde/C. Plowe	human	Plasmodium falciparum 3D7	M
+Mali PS206	Mali PS206	Mali	Mali	A. Djimde/C. Plowe	human	Plasmodium falciparum 3D7	M
+Senegal P06.02	Senegal P06.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	M
+Senegal P121.05	Senegal P121.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal P136.05	Senegal P136.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal P139.05	Senegal P139.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal P18.02	Senegal P18.02	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	M
+Senegal P21.05	Senegal P21.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal P47.05	Senegal P47.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal P69.05	Senegal P69.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal P75.05	Senegal P75.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal Thi10.04	Senegal Thi10.04	Senegal	Senegal	M. Duraisingh	human	Plasmodium falciparum 3D7	M
+Senegal V127.05	Senegal V127.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal V56.04	Senegal V56.04	Senegal	Senegal	J. Daily	human	Plasmodium falciparum 3D7	M
+Senegal V64.05	Senegal V64.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+Senegal V83.05	Senegal V83.05	Senegal	Senegal	Souleyman Mboup	human	Plasmodium falciparum 3D7	M
+T116	T116	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TD194	TD194	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TM335	TM335	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TM336	TM336	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TM343	TM343	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TM346	TM346	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TM347	TM347	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
+TM4-C8-2	TM4-C8-2	Thailand	Thailand	S. Thaithong/D. Kyle	human	Plasmodium falciparum 3D7	M
