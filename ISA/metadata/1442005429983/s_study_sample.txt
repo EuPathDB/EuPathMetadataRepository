@@ -1,0 +1,4 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[country]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[year]	Characteristics[environmental feature]	Characteristics[clinical phenotype]	Raw Data File	Raw Data File
+BHU-1095	AB SOLiD run for BHU-1095	SRR408586	BHU-1095	Leishmania donovani BPK282A1	India	India	human	1993-1994	splenic aspirate	Visceral leishmaniasis	BHU-1095	BHU-1095.paired
+39	AB SOLiD run for Isolate 39	SRR315353	Strain39	Leishmania donovani BPK282A1	India	"Muzaffarpur, Bihar, India"	human	1998-2000	splenic aspirate	not responsive to SAG therapy	39	39.paired
+2001	AB SOLiD run for Isolate 2001	SRR315354 	Strain2001	Leishmania donovani BPK282A1	India	"Balia, Uttar Pradesh, India"	human	1998-2000	unknown	Sensitive to SAG	2001	2001.paired

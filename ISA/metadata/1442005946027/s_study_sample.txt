@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+gambiense	SNPs based on the Tbgambiense sequence from George Cross.	gambiense	gambiense	Trypanosoma brucei gambiense	unknown	unknown	unknown	gambiense	gambiense.paired

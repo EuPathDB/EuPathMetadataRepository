@@ -1,0 +1,3 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+TREU927_resequence1	Illumina Genome Analyzer II paired end sequencing based on the TbruTREU927.	ERS013764	TREU927_resequence1	Trypanosoma brucei TREU927	unknown	unknown	unknown	TREU927_resequence1	TREU927_resequence1.paired
+STIB247	Illumina Genome Analyzer II paired end sequencing of Trypanosoma brucei strain STIB247	ERS011152	STIB247	Trypanosoma brucei TREU927	unknown	unknown	unknown	STIB247	STIB247.paired

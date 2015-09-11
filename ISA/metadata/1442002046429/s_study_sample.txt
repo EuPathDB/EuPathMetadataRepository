@@ -1,0 +1,8 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]
+MHOMBR75M2904	Illumina Genome Analyzer II paired end sequencing of Leishmania braziliensis strain M2904	ERS003039	M2904	Leishmania braziliensis
+BPK206	Illumina Genome Analyzer II paired end sequencing of Leishmania donovani strain BPK206		BPK206	Leishmania donovani
+LV9	Illumina Genome Analyzer II paired end sequencing of Leishmania donovani strain LV9	ERS001888	LV9	Leishmani donovani
+JPCM5	Illumina Genome Analyzer II paired end sequencing of Leishmania infantum strain JPCM5	ERS001832	JPCM5	Leishmania infantum
+Friedlin	Illumina Genome Analyzer II paired end sequencing of Leishmania major strain Friedlin	ERS001834	Friedlin	Leishmania major
+LV39	Illumina Genome Analyzer II paired end sequencing of Leishmania major strain LV39	ERS001833	LV39	Leishmani major
+MHOMGT2001U1103	Illumina Genome Analyzer II paired end sequencing of Leishmania mexicana strain U1103	ERS206788	MHOMGT2001U1103	Leishmania mexicana

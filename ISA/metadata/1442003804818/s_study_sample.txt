@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Raw Data File	Raw Data File
+V1	Illumina Genome paired end sequencing of Leishmania major strain Friedlin isolate V1	SRR611711,SRR611712	V1	Leishmania major strain Friedlin	V1	V1.paired

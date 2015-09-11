@@ -1,0 +1,6 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+M2903	Tryp white paper sequencing of Leishmania braziliensis M2903 using Illumina from WashU.	M2903	M2903	Leishmania braziliensis	unknown	unknown	unknown	M2903	M2903.paired
+Seidman751	Tryp white paper sequencing of Leishmania major Seidman 75.1 using Illumina from WashU.	Seidman751	Seidman751	Leishmania major	unknown	unknown	unknown	Seidman751	Seidman751.paired
+LV39cl5	Tryp white paper sequencing of Leishmania major LV39 cl.5 using Illumina from WashU.	LV39cl5	LV39cl5	Leishmania major	unknown	unknown	unknown	LV39cl5	LV39cl5.paired
+JRcl4	Tryp white paper sequencing of Trypanosoma cruzi JRcl4 using Illumina from WashU.	JRcl4	JRcl4	Trypanosoma cruzi	unknown	unknown	unknown	JRcl4	JRcl4.paired
+Cl3	Tryp white paper sequencing of Trypanosoma cruzi Cl3 using Illumina from WashU.	Cl3	Cl3	Trypanosoma cruzi	unknown	unknown	unknown	Cl3	Cl3.paired
