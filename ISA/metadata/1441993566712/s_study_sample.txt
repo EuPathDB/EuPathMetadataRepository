@@ -1,0 +1,5 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[country]	Characteristics[host organism]	Characteristics[year]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+NorthKorean	Plasmodium vivax whitepaper Illumina sequencing for North Korean	SRX002359,SRX092667	NorthKorean	Plasmodium vivax	North Korea	North Korea	human	unknown	unknown	NorthKorean	NorthKorean.paired
+IndiaVII	Plasmodium vivax whitepaper Illumina sequencing for India VII	SRX092695,SRX092696	IndiaVII	Plasmodium vivax	India	India	human	unknown	unknown	IndiaVII	IndiaVII.paired
+MauritaniaI	Plasmodium vivax whitepaper Illumina sequencing for Mauritania I	SRX004826,SRX092459	MauritaniaI	Plasmodium vivax	Mauritania	Mauritania	human	unknown	unknown	MauritaniaI	MauritaniaI.paired
+BrazilI	Plasmodium vivax whitepaper Illumina sequencing for Brazil I	SRX004820,SRX092662	BrazilI	Plasmodium vivax	Brazil	Brazil	human	unknown	unknown	BrazilI	BrazilI.paired
