@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[country]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Characteristics[year]	Parameter Value[collection date]	Raw Data File	Raw Data File
+HhCatGer041	Illumina genome sequence Hammondia hammondi isolate HhCatGer041, submitted to SRA	SRX257005	HhCatGer041	Hammondia hammondi	Germany	Germany	cat (Felis catus)	feces	2013	2009	HhCatGer041	HhCatGer041.paired

@@ -1,0 +1,3 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[country]	Characteristics[clinical phenotype]	Characteristics[host organism]	Characteristics[environmental feature]	Raw Data File
+Dd2-1	Illumina sequencing for Pfalciparum Dd2	Dd2-1	Dd2-1	Plasmodium falciparum	Laos, Indochina	Laos	Pyrimethamine,Chloroquine, and Mefloquine resistant	human	unknown	Dd2-1
+707A	Illumina sequencing for Pfalciparum 707A	707A	707A	Plasmodium falciparum	unknown	unknown	unknown	human	unknown	707A

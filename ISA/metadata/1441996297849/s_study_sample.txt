@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+IQ07	Illumina sequencing for Pvivax IQ07	IQ07	IQ07	Plasmodium vivax	unknown	human	unknown	IQ07	IQ07.paired

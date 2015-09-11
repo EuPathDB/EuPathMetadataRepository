@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[country]	Characteristics[host organism]	Characteristics[year]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+PreichenowiCDC	Illumina sequencing of P.reichenowi Dennis strain from Sanger	ERX007822,ERX007830,ERX007829,ERX007828,ERX007823	PreichenowiCDC	Plasmodium reichenowi	unknown	unknown	chimp	2010	unknown	PreichenowiCDC	PreichenowiCDC.paired

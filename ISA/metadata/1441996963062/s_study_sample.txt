@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Characteristics[haplogroup]	Raw Data File	Raw Data File
+RH	Whole genome sequence of Toxoplasma gondii RH using Illumina.	gubbels-rh1	RH	Toxoplasma gondii	unknown	unknown	unknown	1	RH	RH.paired
