@@ -1,0 +1,23 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[host organism]	Characteristics[geographic location]	Characteristics[country]	Characteristics[year]	Characteristics[environmental feature]	Raw Data File
+AF10	Aspergillus fumigatus Af10 genomic DNA AF10-F-ILI1-01	SRX093407	AF10	Aspergillus fumigatus	human	Los Angeles, USA	USA	1986	nodular infiltrate in a corticosteroid-treated patient	AF10
+AF210	A. fumigatus AF210 AF210-F-ILI2-01	SRX028560	AF210	Aspergillus fumigatus	human	Manchester, UK	UK	unknown	hospital acquired infection	AF210
+AF293_resequence1	A. fumigatus AF293 AF293-F-ILI3-01	SRX028561	AF293_resequence1	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	AF293_resequence1
+F11698	NCPF-7816 F11698-PE-ILI6-01	SRX053430	F11698	Aspergillus fumigatus	human	UK	UK	unknown	clinical isolate from patient with an atypical mycobacterium infection, COPD, CCPA and aspergilloma	F11698
+F14946	NCPF-7811 F14946-PE-ILI5-01	SRX053431	F14946	Aspergillus fumigatus	human	UK	UK	unknown	clinical isolate from patient with sarcoidosis and bilateral large aspergillomas	F14946
+F15861	NCPF-7820 F15861-PE-ILI7-01	SRX053432	F15861	Aspergillus fumigatus	human	UK	UK	unknown	clinical isolate from a patient with sarcoidosis, CCPA, and bilateral aspergilloma	F15861
+F16867	NCPF-7822 F16867-PE-ILI8-01	SRX053433	F16867	Aspergillus fumigatus	human	UK	UK	unknown	clinical isolate obtained from sputum	F16867
+B5852	Aspergillus fumigatus B5852 B5852-PE-ILI20-1	SRX097004	B5852	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5852
+B5854	Aspergillus fumigatus B5854 B5854-PE-ILI21-1	SRX097005	B5854	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5854
+B5856	Aspergillus fumigatus B5856 B5856-PE-ILI22-1	SRX097006	B5856	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5856
+B5859	Aspergillus fumigatus B5859 B5859-PE-ILI23-1	SRX097007	B5859	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5859
+B5863	Aspergillus fumigatus B5863 B5863-PE-ILI24-1	SRX097008	B5863	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5863
+B5866	Aspergillus fumigatus B5866 B5866-PE-ILI25-1	SRX097009	B5866	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5866
+B5868	Aspergillus fumigatus B5868 B5868-PE-ILI26-1	SRX097010	B5868	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B5868
+B6069	Aspergillus fumigatus B6069 B6069-PE-ILI27-1	SRX097011	B6069	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B6069
+B6074	Aspergillus fumigatus B6074 B6074-PE-ILI28-1	SRX097012	B6074	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B6074
+B6078	Aspergillus fumigatus B6078 B6078-PE-ILI29-1	SRX097013	B6078	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B6078
+B6079	Aspergillus fumigatus B6079 B6079-PE-ILI11-2	SRX097015	B6079	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B6079
+B6081	Aspergillus fumigatus B6081 B6081-PE-ILI31-1	SRX097016	B6081	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	B6081
+F11628	Aspergillus fumigatus F11628 F11628-PE-ILI6-1	SRX097018	F11628	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	F11628
+F12865	Aspergillus fumigatus F12865 F12865-PE-ILI7-2	SRX097019	F12865	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	F12865
+F15767	Aspergillus fumigatus F15767 F15767-PE-ILI5-1	SRX097021	F15767	Aspergillus fumigatus	human	unknown	unknown	unknown	unknown	F15767

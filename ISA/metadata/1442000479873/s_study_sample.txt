@@ -1,0 +1,41 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[country]	Characteristics[host organism]	Characteristics[year]	Parameter Value[collection date]	Raw Data File	Raw Data File
+g33	NGS SNPs on Giardia assemblageE g33	g33	g33	Giardia Assemblage E g33	Australia	Australia	Calf	1993	93-06-08	g33	g33.paired
+C4	NGS SNPs on Giardia assemblageA C4	C4	C4	Giardia Assemblage A C4	Afghanistan	Afghanistan	Human	unknown	unknown	C4	C4.paired
+C6	NGS SNPs on Giardia assemblageA C6	C6	C6	Giardia Assemblage A C6	Afghanistan	Afghanistan	Human	unknown	unknown	C6	C6.paired
+g2	NGS SNPs on Giardia assemblageA g2	g2	g2	Giardia Assemblage A g2	Australia	Australia	Human	1994	94-10-10	g2	g2.paired
+g3	NGS SNPs on Giardia assemblageA g3	g3	g3	Giardia Assemblage A g3	Australia	Australia	Human	1994	94-8-25	g3	g3.paired
+g4	NGS SNPs on Giardia assemblageA g4	g4	g4	Giardia Assemblage A g4	Australia	Australia	Human	2000	00-01-26	g4	g4.paired
+g5	NGS SNPs on Giardia assemblageA g5	g5	g5	Giardia Assemblage A g5	unknown	unknown	Cat	1991	91-08-29	g5	g5.paired
+g6	NGS SNPs on Giardia assemblageA g6	g6	g6	Giardia Assemblage A g6	unknown	unknown	Cat	1991	91-04-01	g6	g6.paired
+g7	NGS SNPs on Giardia assemblageA g7	g7	g7	Giardia Assemblage A g7	Australia	Australia	Human	1992	92-03-11	g7	g7.paired
+g8	NGS SNPs on Giardia assemblageA g8	g8	g8	Giardia Assemblage A g8	Australia	Australia	Human	1992	92-04-01	g8	g8.paired
+g9	NGS SNPs on Giardia assemblageA g9	g9	g9	Giardia Assemblage A g9	Canada	Canada	Sheep	1991	91-09-02	g9	g9.paired
+g10	NGS SNPs on Giardia assemblageA g10	g10	g10	Giardia Assemblage A g10	Canada	Canada	Sheep	1991	91-08-13	g10	g10.paired
+g11	NGS SNPs on Giardia assemblageA g11	g11	g11	Giardia Assemblage A g11	Afghanistan	Afghanistan	Human	1992	92-03-11	g11	g11.paired
+g12	NGS SNPs on Giardia assemblageA g12	g12	g12	Giardia Assemblage A g12	Afghanistan	Afghanistan	Human	1994	94-08-30	g12	g12.paired
+g13	NGS SNPs on Giardia assemblageA g13	g13	g13	Giardia Assemblage A g13	Afghanistan	Afghanistan	Human	1997	97-09-19	g13	g13.paired
+g14	NGS SNPs on Giardia assemblageA g14	g14	g14	Giardia Assemblage A g14	Afghanistan	Afghanistan	Human	1999	99-03-22	g14	g14.paired
+g15	NGS SNPs on Giardia assemblageA g15	g15	g15	Giardia Assemblage A g15	Afghanistan	Afghanistan	Human	2001	01-06-14	g15	g15.paired
+g16	NGS SNPs on Giardia assemblageA g16	g16	g16	Giardia Assemblage A g16	Australia	Australia	Human	1991	91-09-17	g16	g16.paired
+g17	NGS SNPs on Giardia assemblageA g17	g17	g17	Giardia Assemblage A g17	Australia	Australia	Human	1992	92-03-03	g17	g17.paired
+g20	NGS SNPs on Giardia assemblageA g20	g20	g20	Giardia Assemblage A g20	Australia	Australia	Human	1992	92-02-05	g20	g20.paired
+g23	NGS SNPs on Giardia assemblageA g23	g23	g23	Giardia Assemblage A g23	Malaysia	Malaysia	Human	1995	95-06-05	g23	g23.paired
+g24	NGS SNPs on Giardia assemblageA g24	g24	g24	Giardia Assemblage A g24	Australia	Australia	Human	1992	92-04-14	g24	g24.paired
+g26	NGS SNPs on Giardia assemblageA g26	g26	g26	Giardia Assemblage A g26	Australia	Australia	Human	1992	92-08-21	g26	g26.paired
+g27	NGS SNPs on Giardia assemblageA g27	g27	g27	Giardia Assemblage A g27	Australia	Australia	Human	1998	98-02-09	g27	g27.paired
+g31	NGS SNPs on Giardia assemblageA g31	g31	g31	Giardia Assemblage A g31	Australia	Australia	Human	1993	93-06-22	g31	g31.paired
+g37	NGS SNPs on Giardia assemblageA g37	g37	g37	Giardia Assemblage A g37	Australia	Australia	Cockatoo	1998	98-05-26	g37	g37.paired
+g40	NGS SNPs on Giardia assemblageA g40	g40	g40	Giardia Assemblage A g40	Australia	Australia	Human	1998	98-02-06	g40	g40.paired
+g41	NGS SNPs on Giardia assemblageA g41	g41	g41	Giardia Assemblage A g41	Australia	Australia	Human	1991	91-09-12	g41	g41.paired
+g43	NGS SNPs on Giardia assemblageA g43	g43	g43	Giardia Assemblage A g43	Australia	Australia	Human	1991	91-12-13	g43	g43.paired
+g18	NGS SNPs on Giardia assemblageB g18	g18	g18	Giardia Assemblage B g18	Australia	Australia	Human	1992	92-05-27	g18	g18.paired
+g19	NGS SNPs on Giardia assemblageB g19	g19	g19	Giardia Assemblage B g19	Australia	Australia	Human	1991	91-11-25	g19	g19.paired
+g22	NGS SNPs on Giardia assemblageB g22	g22	g22	Giardia Assemblage B g22	Papua New Guinea	Papua New Guinea	Human	1992	92-07-01	g22	g22.paired
+g25	NGS SNPs on Giardia assemblageB g25	g25	g25	Giardia Assemblage B g25	Australia	Australia	Human	1991	91-11-15	g25	g25.paired
+g28	NGS SNPs on Giardia assemblageB g28	g28	g28	Giardia Assemblage B g28	Australia	Australia	Human	1993	93-02-19	g28	g28.paired
+g29	NGS SNPs on Giardia assemblageB g29	g29	g29	Giardia Assemblage B g29	Australia	Australia	Human	1993	93-03-30	g29	g29.paired
+g30	NGS SNPs on Giardia assemblageB g30	g30	g30	Giardia Assemblage B g30	Australia	Australia	Human	1993	93-05-29	g30	g30.paired
+g34	NGS SNPs on Giardia assemblageB g34	g34	g34	Giardia Assemblage B g34	Australia	Australia		1993	93-06-25	g34	g34.paired
+g35	NGS SNPs on Giardia assemblageB g35	g35	g35	Giardia Assemblage B g35	Australia	Australia	Human	1995	95-11-21	g35	g35.paired
+g39	NGS SNPs on Giardia assemblageB g39	g39	g39	Giardia Assemblage B g39	Australia	Australia	Human	1997	97-05-26	g39	g39.paired
+g42	NGS SNPs on Giardia assemblageB g42	g42	g42	Giardia Assemblage B g42	Canada	Canada	Human	2001	01-08-07	g42	g42.paired

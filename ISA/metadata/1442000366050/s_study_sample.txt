@@ -1,0 +1,2 @@
+Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[host organism]	Characteristics[geographic location]	Characteristics[environmental feature]	Raw Data File	Raw Data File
+A1163	A. fumigatus AF1163 AF1163-F-ILI4-01	SRX028559	A1163	Aspergillus fumigatus	human	unknown	unknown	A1163	A1163.paired
