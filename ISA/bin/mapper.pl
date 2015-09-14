@@ -9,6 +9,8 @@ open(FILE, $fn) or die "Cannot open file $fn for reading:  $!";
 my %map = (
           'Comment [subject]' => "Comment[subject]",
           'Comment [Subject]' => "Comment[subject]",
+          'Comment [source_id]' => "Comment[source_id]",
+          'Characteristics [BioSampleID]' => "Sample Name",
           'Characteristics [Country]' => "Characteristics[country]",
           'Characteristics [ClearanceTime]' => "Characteristics [clearance time]",
           'Characteristics [Organism]' => "Characteristics[organism]",
@@ -33,6 +35,7 @@ my %map = (
           'Characteristics [StudyArm]' => "Characteristics[study arm]",
           'Description' => "Comment[description]",
           'Characteristics [HostSex]' => "Characteristics[sex]",
+          'Data File' => "Raw Data File",
     );
 
 
