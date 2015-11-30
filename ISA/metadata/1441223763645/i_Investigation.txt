@@ -28,16 +28,16 @@ Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform													
 Comment[dataset_names]	pfal3D7_microarrayAntibody_Crompton_Mali_RSRC												
 STUDY PROTOCOLS													
-Study Protocol Name	sample collection	extraction	labeling	hybridization	data collection	data transformation							
-Study Protocol Type	sample collection	extraction	labeling	hybridization	data collection	data transformation							
-Study Protocol Type Term Accession Number													
-Study Protocol Type Term Source REF													
+Study Protocol Name	sample collection	extraction	labeling	data collection	data transformation								
+Study Protocol Type	collecting specimen from organism	extraction	labeling	data collection	data transformation								
+Study Protocol Type Term Accession Number	OBI_0600005	OBI_0302884	OBI_0600038	OBI_0600013	OBI_0200000								
+Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI								
 Study Protocol Description													
 Study Protocol URI													
 Study Protocol Version													
 Study Protocol Parameters Name	Collection Date												
-Study Protocol Parameters Name Term Accession Number													
-Study Protocol Parameters Name Term Source REF													
+Study Protocol Parameters Name Term Accession Number	OBI_0001619												
+Study Protocol Parameters Name Term Source REF	OBI												
 Study Protocol Components Name													
 Study Protocol Components Type													
 Study Protocol Components Type Term Accession Number													
