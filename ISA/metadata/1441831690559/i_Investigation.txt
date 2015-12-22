@@ -1,96 +1,47 @@
-ONTOLOGY SOURCE REFERENCE
-Term Source Name	"NCBITAXON"	
-Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	
-Term Source Version	"2"	
-Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	
-INVESTIGATION
-Investigation Identifier	"1441831690559"
-Investigation Title	"Investigation"
-Investigation Description	""
-Investigation Submission Date	""
-Investigation Public Release Date	""
-Comment [Created with configuration]	""
-Comment [Last Opened With Configuration]	"isaconfig-eupath_v2015-09-01"
-Comment [Created With Configuration]	"/home/jbrestel/projects/EuPathMetadataRepository/ISA/config/isaconfig-eupath_v2015-09-01"
-INVESTIGATION PUBLICATIONS
-Investigation PubMed ID	""
-Investigation Publication DOI	""
-Investigation Publication Author List	""
-Investigation Publication Title	""
-Investigation Publication Status	""
-Investigation Publication Status Term Accession Number	""
-Investigation Publication Status Term Source REF	""
-INVESTIGATION CONTACTS
-Investigation Person Last Name	""
-Investigation Person First Name	""
-Investigation Person Mid Initials	""
-Investigation Person Email	""
-Investigation Person Phone	""
-Investigation Person Fax	""
-Investigation Person Address	""
-Investigation Person Affiliation	""
-Investigation Person Roles	""
-Investigation Person Roles Term Accession Number	""
-Investigation Person Roles Term Source REF	""
-STUDY
-Study Identifier	"1441831690559-1"
-Study Title	"PlasmoDB/pfal3D7/SNP/Broad75KGenotyping/"
-Study Description	""
-Comment[Study Grant Number]	""
-Comment[Study Funding Agency]	""
-Study Submission Date	""
-Study Public Release Date	""
-Study File Name	"s_study_sample.txt"
-STUDY DESIGN DESCRIPTORS
-Study Design Type	""
-Study Design Type Term Accession Number	""
-Study Design Type Term Source REF	""
-STUDY PUBLICATIONS
-Study PubMed ID	""
-Study Publication DOI	""
-Study Publication Author List	""
-Study Publication Title	""
-Study Publication Status	""
-Study Publication Status Term Accession Number	""
-Study Publication Status Term Source REF	""
-STUDY FACTORS
-Study Factor Name	""
-Study Factor Type	""
-Study Factor Type Term Accession Number	""
-Study Factor Type Term Source REF	""
-STUDY ASSAYS
-Study Assay File Name	""
-Study Assay Measurement Type	""
-Study Assay Measurement Type Term Accession Number	""
-Study Assay Measurement Type Term Source REF	""
-Study Assay Technology Type	""
-Study Assay Technology Type Term Accession Number	""
-Study Assay Technology Type Term Source REF	""
-Study Assay Technology Platform	""
-STUDY PROTOCOLS
-Study Protocol Name	""
-Study Protocol Type	""
-Study Protocol Type Term Accession Number	""
-Study Protocol Type Term Source REF	""
-Study Protocol Description	""
-Study Protocol URI	""
-Study Protocol Version	""
-Study Protocol Parameters Name	""
-Study Protocol Parameters Name Term Accession Number	""
-Study Protocol Parameters Name Term Source REF	""
-Study Protocol Components Name	""
-Study Protocol Components Type	""
-Study Protocol Components Type Term Accession Number	""
-Study Protocol Components Type Term Source REF	""
-STUDY CONTACTS
-Study Person Last Name	""
-Study Person First Name	""
-Study Person Mid Initials	""
-Study Person Email	""
-Study Person Phone	""
-Study Person Fax	""
-Study Person Address	""
-Study Person Affiliation	""
-Study Person Roles	""
-Study Person Roles Term Accession Number	""
-Study Person Roles Term Source REF	""
+ONTOLOGY SOURCE REFERENCE													
+Term Source Name	OBI	ICEMR	EuPath	GAZ	ECO	PATO	OPL	ENVO	UBERON	PO	NCBITAXON	EFO	UO
+Term Source File	http://data.bioontology.org/ontologies/OBI			http://data.bioontology.org/ontologies/GAZ	http://data.bioontology.org/ontologies/ECO	http://data.bioontology.org/ontologies/PATO	http://data.bioontology.org/ontologies/OPL	http://data.bioontology.org/ontologies/ENVO	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/PO	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/UO
+Term Source Version													
+Term Source Description	Ontology for Biomedical Investigations	ICEMR Terms And Relationships	EuPath Ontology	Gazetteer	Evidence Ontology	Phenotypic Quality	Ontology of Parasite Life Cycle	Environment Ontology	Uberon multi-species anatomy ontology	Plant Ontology	National Center for Biotechnology Information (NCBI) Organismal Classification	Experimental Factor Ontology	Units of measurement
+INVESTIGATION													
+INVESTIGATION													
+Investigation Identifier	1441831690559												
+Investigation Title	Investigation												
+Investigation Description													
+Investigation Submission Date													
+Investigation Public Release Date													
+STUDY													
+Study Identifier	1441831690559-1												
+Study Title													
+Study Description													
+Comment[Study Grant Number]													
+Comment[Study Funding Agency]													
+Study Submission Date													
+Study Public Release Date													
+Study File Name	s_study_sample.txt												
+Comment[manual delivery]	PlasmoDB/pfal3D7/SNP/Broad75KGenotyping/												
+STUDY ASSAYS													
+Study Assay File Name	a_SNP_analysis_DNA_microarray.txt												
+Study Assay Measurement Type	DNA Sequence variation detection												
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000438												
+Study Assay Measurement Type Term Source REF	OBI												
+Study Assay Technology Type	SNP microarray												
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0001204												
+Study Assay Technology Type Term Source REF	OBI												
+Study Assay Technology Platform													
+Comment[dataset_names]													
+STUDY PROTOCOLS													
+Study Protocol Name	sample collection	DNA extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation							
+Study Protocol Type	collecting specimen from organism	DNA extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation							
+Study Protocol Type Term Accession Number	OBI_0600005	OBI_0000257	OBI_0600038	OBI_0302903	OBI_0600013	OBI_0200187							
+Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI							
+Study Protocol Description													
+Study Protocol URI													
+Study Protocol Version													
+Study Protocol Parameters Name	Collection Date												
+Study Protocol Parameters Name Term Accession Number	OBI_0001619												
+Study Protocol Parameters Name Term Source REF	OBI												
+Study Protocol Components Name													
+Study Protocol Components Type													
+Study Protocol Components Type Term Accession Number													
+Study Protocol Components Type Term Source REF													
