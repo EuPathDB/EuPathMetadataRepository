@@ -1,0 +1,2 @@
+Sample Name	Protocol REF	Protocol REF	Assay Name	Protocol REF	Protocol REF	Data Transformation Name
+Sample IQ07	DNA extraction	DNA Sequencing	IQ07 DNASeq Assay	data collection	sequence analysis data transformation	IQ07 (Sequence Variation)

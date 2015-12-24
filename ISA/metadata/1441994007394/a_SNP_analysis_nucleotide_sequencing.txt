@@ -1,0 +1,13 @@
+Sample Name	Protocol REF	Protocol REF	Assay Name	Protocol REF	Protocol REF	Data Transformation Name
+Sample 58.1	DNA extraction	DNA Sequencing	58.1 DNASeq Assay	data collection	sequence analysis data transformation	58.1 (Sequence Variation)
+Sample 303.1	DNA extraction	DNA Sequencing	303.1 DNASeq Assay	data collection	sequence analysis data transformation	303.1 (Sequence Variation)
+Sample 309.1	DNA extraction	DNA Sequencing	309.1 DNASeq Assay	data collection	sequence analysis data transformation	309.1 (Sequence Variation)
+Sample 318.1	DNA extraction	DNA Sequencing	318.1 DNASeq Assay	data collection	sequence analysis data transformation	318.1 (Sequence Variation)
+Sample 326.1	DNA extraction	DNA Sequencing	326.1 DNASeq Assay	data collection	sequence analysis data transformation	326.1 (Sequence Variation)
+Sample 327.1	DNA extraction	DNA Sequencing	327.1 DNASeq Assay	data collection	sequence analysis data transformation	327.1 (Sequence Variation)
+Sample 365.1	DNA extraction	DNA Sequencing	365.1 DNASeq Assay	data collection	sequence analysis data transformation	365.1 (Sequence Variation)
+Sample 366.1	DNA extraction	DNA Sequencing	366.1 DNASeq Assay	data collection	sequence analysis data transformation	366.1 (Sequence Variation)
+Sample 377.1	DNA extraction	DNA Sequencing	377.1 DNASeq Assay	data collection	sequence analysis data transformation	377.1 (Sequence Variation)
+Sample 383.1	DNA extraction	DNA Sequencing	383.1 DNASeq Assay	data collection	sequence analysis data transformation	383.1 (Sequence Variation)
+Sample 397.1	DNA extraction	DNA Sequencing	397.1 DNASeq Assay	data collection	sequence analysis data transformation	397.1 (Sequence Variation)
+Sample 398.1	DNA extraction	DNA Sequencing	398.1 DNASeq Assay	data collection	sequence analysis data transformation	398.1 (Sequence Variation)

@@ -21,13 +21,13 @@ Study Public Release Date
 Study File Name	s_study_sample.txt													
 Comment[manual delivery]	PlasmoDB/pfal3D7/SNP/Broad_100_genomes/ and PlasmoDB/pyoeyoelii17X/SNP/Broad_100_genomes/													
 STUDY ASSAYS														
-Study Assay File Name	a_SNP_analysis_nucleotide_sequencing.txt	a_py_SNP_analysis_nucleotide_sequencing.txt												
-Study Assay Measurement Type	DNA Sequence variation detection	DNA Sequence variation detection												
-Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000438	http://purl.obolibrary.org/obo/OBI_0000438												
-Study Assay Measurement Type Term Source REF	OBI	OBI												
-Study Assay Technology Type	DNA sequencer	DNA sequencer												
-Study Assay Technology Type Term Accession Number	OBI_0400103	OBI_0400103												
-Study Assay Technology Type Term Source REF	OBI	OBI												
+Study Assay File Name	a_SNP_analysis_nucleotide_sequencing.txt													
+Study Assay Measurement Type	DNA Sequence variation detection													
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000438													
+Study Assay Measurement Type Term Source REF	OBI													
+Study Assay Technology Type	DNA sequencer													
+Study Assay Technology Type Term Accession Number	OBI_0400103													
+Study Assay Technology Type Term Source REF	OBI													
 Study Assay Technology Platform														
 Comment[dataset_names]														
 STUDY PROTOCOLS														

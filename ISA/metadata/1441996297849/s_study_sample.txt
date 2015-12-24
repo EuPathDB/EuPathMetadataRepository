@@ -1,2 +1,2 @@
-Source Name	Comment[description]	Comment[source_id]	Characteristics[strain]	Characteristics[organism]	Characteristics[geographic location]	Characteristics[host organism]	Characteristics[environmental feature]	Raw Data File	Raw Data File
-IQ07	Illumina sequencing for Pvivax IQ07	IQ07	IQ07	Plasmodium vivax	unknown	human	unknown	IQ07	IQ07.paired
+Source Name	Material Type	Term Source REF	Term Accession Number	Characteristics[OBI_0100026]	Term Source REF	Term Accession Number	Protocol REF	Sample Name	Material Type	Term Source REF	Term Accession Number	Description	Characteristics[PATO_0001034]	Characteristics[OPL_0000232]
+Subject 1	host	GO	GO_0018995	human	NCBITaxon	NCBITaxon_9606	sample collection	Sample IQ07	sample from organism	OBI	OBI_0000671	Illumina sequencing for Pvivax IQ07	IQ07	Plasmodium vivax
