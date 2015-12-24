@@ -1,0 +1,14 @@
+Sample Name	Material Type	Term Source REF	Term Accession Number	Characteristics [OBI_0000198]	Characteristics [OBI_0001305]
+14070B_3D7_H3K9Ac_sir2KO	sample from organism	OBI	OBI_0000671	2	sir2KO
+14070B_3D7_H3K9me3_sir2KO	sample from organism	OBI	OBI_0000671	2	sir2KO
+9435A_3D7_H3K4me3_wt	sample from organism	OBI	OBI_0000671	2	wild_type
+9435A_3D7_H3K9Ac_sir2KO	sample from organism	OBI	OBI_0000671	1	sir2KO
+9435A_3D7_H3K9Ac_wt	sample from organism	OBI	OBI_0000671	2	wild_type
+9435A_3D7_H3K9me3_sir2KO	sample from organism	OBI	OBI_0000671	1	sir2KO
+9435B_3D7_H3K4me3_wt	sample from organism	OBI	OBI_0000671	1	wild_type
+9435B_3D7_H3K9Ac_wt	sample from organism	OBI	OBI_0000671	1	wild_type
+9435B_3D7_H3K9me3_wt	sample from organism	OBI	OBI_0000671	3	wild_type
+9435B_3D7_H4K20me3_wt	sample from organism	OBI	OBI_0000671	2	wild_type
+9981A_3D7_H3K9me3_wt	sample from organism	OBI	OBI_0000671	1	wild_type
+9981A_3D7_H4K20me3_wt	sample from organism	OBI	OBI_0000671	1	wild_type
+9981_3D7_H3K9me3_wt	sample from organism	OBI	OBI_0000671	2	wild_type

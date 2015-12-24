@@ -1,0 +1,2 @@
+Sample Name	Material Type	Term Source REF	Term Accession Number
+7821202_ChIP-005HA-ab9110	sample from organism	OBI	OBI_0000671

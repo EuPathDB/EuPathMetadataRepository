@@ -1,0 +1,5 @@
+Sample Name	Material Type	Term Source REF	Term Accession Number
+H3K9ac_troph	sample from organism	OBI	OBI_0000671
+H4_ring	sample from organism	OBI	OBI_0000671
+H4_schizont	sample from organism	OBI	OBI_0000671
+H4_trophozoite	sample from organism	OBI	OBI_0000671

@@ -1,0 +1,2 @@
+Sample Name	Protocol Ref	Protocol Ref	Protocol Ref	Protocol Ref	Assay Name	Protoocl Ref	Normalization Name	Protoocl Ref	Data Transformation Name
+7821202_ChIP-005HA-ab9110	sample preparation for assay	labeling	nucleic acid hybridization	data collection	7821202_ChIP-005HA-ab9110 ChIP-chip Assay	data transformation	7821202_ChIP-005HA-ab9110_smoothed (ChIP-chip)	data transformation	7821202_ChIP-005HA-ab9110_peaks (ChIP-chip)
