@@ -29,7 +29,7 @@ Study Assay Technology Type	SNP microarray
 Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0001204													
 Study Assay Technology Type Term Source REF	OBI													
 Study Assay Technology Platform														
-Comment[dataset_names]														
+Comment[dataset_names]	pfal3D7_SNPChip_BroadIsolateBarcode_RSRC													
 STUDY PROTOCOLS														
 Study Protocol Name	sample collection	DNA extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation								
 Study Protocol Type	collecting specimen from organism	DNA extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation								

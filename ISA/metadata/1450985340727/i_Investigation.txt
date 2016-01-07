@@ -29,7 +29,7 @@ Study Assay Technology Type	DNA microarray
 Study Assay Technology Type Term Accession Number	OBI_0400148													
 Study Assay Technology Type Term Source REF	OBI													
 Study Assay Technology Platform														
-Comment[dataset_names]														
+Comment[dataset_names]	pfal3D7_chipChipExper_Winzeler_Westenberger_RSRC													
 STUDY PROTOCOLS														
 Study Protocol Name	sample collection	administration of material to specimen	sample preparation for assay	labeling	nucleic acid hybridization	data collection	data transformation							
 Study Protocol Type	collecting specimen from organism	administration of material to specimen	sample preparation for assay	labeling	nucleic acid hybridization	data collection	data transformation							
