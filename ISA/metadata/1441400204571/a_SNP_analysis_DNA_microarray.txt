@@ -83,3 +83,4 @@ Sample RAJ116	DNA extraction	labeling	nucleic acid hybridization	data collection
 Sample 87-239	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample 87-239SNP Chip Assay	sequence analysis data transformation	87-239 (Sequence Variations)
 Sample JDP8	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample JDP8SNP Chip Assay	sequence analysis data transformation	JDP8 (Sequence Variations)
 Sample IGHCR14	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample IGHCR14SNP Chip Assay	sequence analysis data transformation	IGHCR14 (Sequence Variations)
+Sample 3D7	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample 3D7SNP Chip Assay	sequence analysis data transformation	3D7 (Sequence Variations)
