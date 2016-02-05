@@ -330,3 +330,4 @@ Sample Wang Pha-27	DNA extraction	labeling	nucleic acid hybridization	data colle
 Sample Wang Pha-28	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample Wang Pha-28SNP Chip Assay	sequence analysis data transformation	Wang Pha-28 (Sequence Variations)
 Sample Wang Pha-29	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample Wang Pha-29SNP Chip Assay	sequence analysis data transformation	Wang Pha-29 (Sequence Variations)
 Sample Wang Pha-30	DNA extraction	labeling	nucleic acid hybridization	data collection	Sample Wang Pha-30SNP Chip Assay	sequence analysis data transformation	Wang Pha-30 (Sequence Variations)
+Reference Sample 3D7						sequence analysis data transformation	3D7 (Sequence Variations)
