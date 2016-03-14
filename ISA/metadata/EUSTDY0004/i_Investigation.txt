@@ -5,13 +5,13 @@ Term Source Version
 Term Source Description	Gene Ontology	Ontology for Biomedical Investigations	ICEMR Terms And Relationships	EuPath Ontology	Gazetteer	Evidence Ontology	Phenotypic Quality	Ontology of Parasite Life Cycle	Environment Ontology	Uberon multi-species anatomy ontology	Plant Ontology	National Center for Biotechnology Information (NCBI) Organismal Classification	Experimental Factor Ontology	Units of measurement
 INVESTIGATION														
 INVESTIGATION														
-Investigation Identifier	1441834041160													
+Investigation Identifier	EUSTDY0004													
 Investigation Title	Investigation													
 Investigation Description														
 Investigation Submission Date														
 Investigation Public Release Date														
 STUDY														
-Study Identifier	1441834041160-1													
+Study Identifier	EUSTDY0004-1													
 Study Title														
 Study Description														
 Comment[Study Grant Number]														
