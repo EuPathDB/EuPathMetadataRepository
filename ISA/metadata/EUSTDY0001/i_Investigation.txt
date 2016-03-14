@@ -1,4 +1,4 @@
-ONTOLOGY SOURCE REFERENCE													
+﻿ONTOLOGY SOURCE REFERENCE													
 Term Source Name	OBI	ICEMR	EuPath	GAZ	ECO	PATO	OPL	ENVO	UBERON	PO	NCBITAXON	EFO	UO
 Term Source File	http://data.bioontology.org/ontologies/OBI			http://data.bioontology.org/ontologies/GAZ	http://data.bioontology.org/ontologies/ECO	http://data.bioontology.org/ontologies/PATO	http://data.bioontology.org/ontologies/OPL	http://data.bioontology.org/ontologies/ENVO	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/PO	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/UO
 Term Source Version													
@@ -18,7 +18,7 @@ Study Public Release Date
 Study File Name	s_study.txt												
 Comment[manual delivery]	PlasmoDB/pfal3D7/microarrayAntibody/Crompton_Mali												
 STUDY ASSAYS													
-Study Assay File Name	a_EUSTDY0001-1_serum_antibody_levels_protein_microarray.txt												
+Study Assay File Name	a_serum_antibody_levels_protein_microarray.txt												
 Study Assay Measurement Type	serum antibody levels												
 Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000615												
 Study Assay Measurement Type Term Source REF	OBI												
