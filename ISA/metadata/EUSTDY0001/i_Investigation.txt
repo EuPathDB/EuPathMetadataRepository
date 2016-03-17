@@ -1,4 +1,4 @@
-﻿ONTOLOGY SOURCE REFERENCE													
+ONTOLOGY SOURCE REFERENCE													
 Term Source Name	OBI	ICEMR	EuPath	GAZ	ECO	PATO	OPL	ENVO	UBERON	PO	NCBITAXON	EFO	UO
 Term Source File	http://data.bioontology.org/ontologies/OBI			http://data.bioontology.org/ontologies/GAZ	http://data.bioontology.org/ontologies/ECO	http://data.bioontology.org/ontologies/PATO	http://data.bioontology.org/ontologies/OPL	http://data.bioontology.org/ontologies/ENVO	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/PO	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/UO
 Term Source Version													
@@ -36,8 +36,8 @@ Study Protocol Description
 Study Protocol URI													
 Study Protocol Version													
 Study Protocol Parameters Name	Collection Date												
-Study Protocol Parameters Name Term Accession Number	OBI_0001619												
-Study Protocol Parameters Name Term Source REF	OBI												
+Study Protocol Parameters Name Term Accession Number	ICEMR_date_sample_collected												
+Study Protocol Parameters Name Term Source REF	ICEMR												
 Study Protocol Components Name													
 Study Protocol Components Type													
 Study Protocol Components Type Term Accession Number													
