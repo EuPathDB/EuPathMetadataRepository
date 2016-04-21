@@ -36,8 +36,8 @@ Study Protocol Description		?? Check Paper
 Study Protocol URI													
 Study Protocol Version													
 Study Protocol Parameters Name	Collection Date												
-Study Protocol Parameters Name Term Accession Number	ICEMR_date_sample_collected												
-Study Protocol Parameters Name Term Source REF	ICEMR												
+Study Protocol Parameters Name Term Accession Number	OBI_0001619												
+Study Protocol Parameters Name Term Source REF	OBI												
 Study Protocol Components Name													
 Study Protocol Components Type													
 Study Protocol Components Type Term Accession Number													
