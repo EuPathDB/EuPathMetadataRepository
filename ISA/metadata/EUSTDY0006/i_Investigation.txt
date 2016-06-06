@@ -31,9 +31,9 @@ Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform														
 Comment[dataset_names]	pfal3D7_HTS_SNP_Broad_100_genomes_RSRC;pyoeyoelii17X_HTS_SNP_Broad_100_genomes_RSRC													
 STUDY PROTOCOLS														
-Study Protocol Name	sample collection	DNA extraction	DNA Sequencing	data collection	sequence analysis data transformation									
-Study Protocol Type	collecting specimen from organism	DNA extraction	DNA Sequencing	data collection	sequence analysis data transformation									
-Study Protocol Type Term Accession Number	OBI_0600005	OBI_0000257	OBI_0000626	OBI_0600013	OBI_0200187									
+Study Protocol Name	sample collection	extraction	DNA Sequencing	data collection	sequence analysis data transformation									
+Study Protocol Type	collecting specimen from organism	extraction	DNA Sequencing	data collection	sequence analysis data transformation									
+Study Protocol Type Term Accession Number	OBI_0600005	OBI_0302884	OBI_0000626	OBI_0600013	OBI_0200187									
 Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI									
 Study Protocol Description														
 Study Protocol URI														

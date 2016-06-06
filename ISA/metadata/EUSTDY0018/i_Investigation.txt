@@ -31,10 +31,10 @@ Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform														
 Comment[dataset_names]	pfal3D7_chipChipExper_Artur_Scherf_RSRC													
 STUDY PROTOCOLS														
-Study Protocol Name	sample collection	administration of material to specimen	sample preparation for assay	labeling	nucleic acid hybridization	data collection	data transformation							
-Study Protocol Type	collecting specimen from organism	administration of material to specimen	sample preparation for assay	labeling	nucleic acid hybridization	data collection	data transformation							
-Study Protocol Type Term Accession Number	OBI_0600005	OBI_0000995	OBI_0000073	OBI_0600038	OBI_0302903	OBI_0600013	OBI_0200000							
-Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI	OBI							
+Study Protocol Name	sample collection	administration of material to specimen	sample preparation for assay	labeling	nucleic acid hybridization	data collection	data transformation	extraction						
+Study Protocol Type	collecting specimen from organism	administration of material to specimen	sample preparation for assay	labeling	nucleic acid hybridization	data collection	data transformation	extraction						
+Study Protocol Type Term Accession Number	OBI_0600005	OBI_0000995	OBI_0000073	OBI_0600038	OBI_0302903	OBI_0600013	OBI_0200000	OBI_0302884						
+Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI	OBI	OBI						
 Study Protocol Description														
 Study Protocol URI														
 Study Protocol Version														
