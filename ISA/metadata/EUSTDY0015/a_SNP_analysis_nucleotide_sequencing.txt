@@ -1,3 +1,3 @@
-Extract Name	Protocol REF	Assay Name	Protocol REF	Raw Data File	Protocol REF	Data Transformation Name
-Extract Dd2-1	DNA Sequencing	Dd2-1 DNASeq Assay	data collection	Dd2-1 (Raw data)	sequence analysis data transformation	Dd2-1 (Sequence Variation)
-Extract 707A	DNA Sequencing	707A DNASeq Assay	data collection	707A (Raw data)	sequence analysis data transformation	707A (Sequence Variation)
+Extract Name	Protocol REF	Assay Name
+Extract Dd2-1	DNA Sequencing	Dd2-1 (DNA Sequencing)
+Extract 707A	DNA Sequencing	707A (DNA Sequencing)

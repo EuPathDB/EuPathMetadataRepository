@@ -1,5 +1,5 @@
-Extract Name	Protocol REF	Assay Name	Protocol REF	Raw Data File	Protocol REF	Data Transformation Name
-Extract NorthKorean	DNA Sequencing	NorthKorean DNASeq Assay	data collection	NorthKorean (Raw data)	sequence analysis data transformation	NorthKorean (Sequence Variation)
-Extract IndiaVII	DNA Sequencing	IndiaVII DNASeq Assay	data collection	IndiaVII (Raw data)	sequence analysis data transformation	IndiaVII (Sequence Variation)
-Extract MauritaniaI	DNA Sequencing	MauritaniaI DNASeq Assay	data collection	MauritaniaI (Raw data)	sequence analysis data transformation	MauritaniaI (Sequence Variation)
-Extract BrazilI	DNA Sequencing	BrazilI DNASeq Assay	data collection	BrazilI (Raw data)	sequence analysis data transformation	BrazilI (Sequence Variation)
+Extract Name	Protocol REF	Assay Name
+Extract NorthKorean	DNA Sequencing	NorthKorean (DNA Sequencing)
+Extract IndiaVII	DNA Sequencing	IndiaVII (DNA Sequencing)
+Extract MauritaniaI	DNA Sequencing	MauritaniaI (DNA Sequencing)
+Extract BrazilI	DNA Sequencing	BrazilI (DNA Sequencing)

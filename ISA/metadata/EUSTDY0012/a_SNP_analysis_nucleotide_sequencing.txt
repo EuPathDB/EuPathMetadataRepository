@@ -1,9 +1,9 @@
-Extract Name	Protocol REF	Assay Name	Protocol REF	Raw Data File	Protocol REF	Data Transformation Name
-Extract 7G8	DNA Sequencing	7G8 DNASeq Assay	data collection	7G8 (Raw data)	sequence analysis data transformation	7G8 (Sequence Variation)
-Extract CS2	DNA Sequencing	CS2 DNASeq Assay	data collection	CS2 (Raw data)	sequence analysis data transformation	CS2 (Sequence Variation)
-Extract GB4	DNA Sequencing	GB4 DNASeq Assay	data collection	GB4 (Raw data)	sequence analysis data transformation	GB4 (Sequence Variation)
-Extract T9_94	DNA Sequencing	T9_94 DNASeq Assay	data collection	T9_94 (Raw data)	sequence analysis data transformation	T9_94 (Sequence Variation)
-Extract V1_S	DNA Sequencing	V1_S DNASeq Assay	data collection	V1_S (Raw data)	sequence analysis data transformation	V1_S (Sequence Variation)
-Extract Dd2-2	DNA Sequencing	Dd2-2 DNASeq Assay	data collection	Dd2-2 (Raw data)	sequence analysis data transformation	Dd2-2 (Sequence Variation)
-Extract HB3	DNA Sequencing	HB3 DNASeq Assay	data collection	HB3 (Raw data)	sequence analysis data transformation	HB3 (Sequence Variation)
-Extract IT	DNA Sequencing	IT DNASeq Assay	data collection	IT (Raw data)	sequence analysis data transformation	IT (Sequence Variation)
+Extract Name	Protocol REF	Assay Name
+Extract 7G8	DNA Sequencing	7G8 (DNA Sequencing)
+Extract CS2	DNA Sequencing	CS2 (DNA Sequencing)
+Extract GB4	DNA Sequencing	GB4 (DNA Sequencing)
+Extract T9_94	DNA Sequencing	T9_94 (DNA Sequencing)
+Extract V1_S	DNA Sequencing	V1_S (DNA Sequencing)
+Extract Dd2-2	DNA Sequencing	Dd2-2 (DNA Sequencing)
+Extract HB3	DNA Sequencing	HB3 (DNA Sequencing)
+Extract IT	DNA Sequencing	IT (DNA Sequencing)

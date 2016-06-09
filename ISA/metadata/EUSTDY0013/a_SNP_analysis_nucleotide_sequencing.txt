@@ -1,2 +1,2 @@
-Extract Name	Protocol REF	Assay Name	Protocol REF	Raw Data File	Protocol REF	Data Transformation Name
-Extract PreichenowiCDC	DNA Sequencing	PreichenowiCDC DNASeq Assay	data collection	PreichenowiCDC (Raw data)	sequence analysis data transformation	CDC_reference_reads (Sequence Variation)
+Extract Name;preiCDC_copyNumberVariations_Sanger_Pr;eichenowiCDC_QuerySRA_RSRC	Protocol REF	Assay Name
+Extract PreichenowiCDC	DNA Sequencing	CDC_reference_reads (DNA Sequencing)

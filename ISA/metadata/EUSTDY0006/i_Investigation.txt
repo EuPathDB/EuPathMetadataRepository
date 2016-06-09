@@ -29,7 +29,7 @@ Study Assay Technology Type	DNA sequencer
 Study Assay Technology Type Term Accession Number	OBI_0400103													
 Study Assay Technology Type Term Source REF	OBI													
 Study Assay Technology Platform														
-Comment[dataset_names]	pfal3D7_HTS_SNP_Broad_100_genomes_RSRC;pyoeyoelii17X_HTS_SNP_Broad_100_genomes_RSRC													
+Comment[dataset_names]	pfal3D7_HTS_SNP_Broad_100_genomes_RSRC;pyoeyoelii17X_HTS_SNP_Broad_100_genomes_RSRC;pfal3D7_copyNumberVariations_Broad_100_genomes_RSRC;pyoeyoelii17X_copyNumberVariations_Broad_100_genomes_RSRC													
 STUDY PROTOCOLS														
 Study Protocol Name	sample collection	extraction	DNA Sequencing	data collection	sequence analysis data transformation									
 Study Protocol Type	collecting specimen from organism	extraction	DNA Sequencing	data collection	sequence analysis data transformation									
