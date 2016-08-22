@@ -25,11 +25,11 @@ Study Assay File Name	a_OTU_analysis_16SrRNA.txt
 Study Assay Measurement Type	metagenomics analysis															
 Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/ERO_0000657															
 Study Assay Measurement Type Term Source REF	ERO															
-Study Assay Technology Type	High throughput DNA sequencing															
+Study Assay Technology Type	High throughputï¾ DNA sequencing															
 Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/ERO_0001183															
 Study Assay Technology Type Term Source REF	ERO															
 Study Assay Technology Platform																
-Comment[dataset_names]	EMP_Bee_Microbiome_OTU_RSRC															
+Comment[dataset_names]	otu_Bee_Microbiome_RSRC															
 STUDY PROTOCOLS																
 Study Protocol Name	sample collection	DNA extraction	DNA Sequencing	data transformation												
 Study Protocol Type	collecting specimen from organism	DNA extraction	DNA Sequencing	data collection data transformation												
