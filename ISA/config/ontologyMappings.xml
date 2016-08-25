@@ -1,0 +1,136 @@
+<ontologyMappings>
+
+  <!-- Protocol Params -->
+  <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
+    <name>Collection date</name>
+    <function>formatDate</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
+    <name>Year</name>
+  </ontologyTerm>
+
+  <!-- Material Entity Types -->
+  <ontologyTerm source_id="GO_0018995" type="materialType">
+    <name>host</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000655" type="materialType">
+    <name>blood specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001051" type="materialType">
+    <name>DNA extract</name>
+  </ontologyTerm>
+
+
+  <!-- Protocols -->
+  <ontologyTerm source_id="OBI_0000659" type="protocol">
+    <name>specimen collection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000257" type="protocol">
+    <name>DNA extraction</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000626" type="protocol">
+    <name>DNA Sequencing</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0600013" type="protocol">
+    <name>data collection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OGMS_0000090" type="protocol">
+    <name>treatment</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000995" type="protocol">
+    <name>administration of material to specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="IDO_0000586" type="protocol">
+    <name>infection</name>
+  </ontologyTerm>
+
+
+
+  <!-- Characteristics -->
+  <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
+    <name>geographic location</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+
+  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
+    <name>country name</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
+    <name>organism</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Source">
+    <name>parasite organism</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
+    <name>age</name>
+    <function>splitUnitFromValue</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
+    <name>sex</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
+    <name>biological replicate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="BFO_0000023" type="characteristicQualifier" parent="Source">
+    <name>role</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
+    <name>elevation</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000276" type="characteristicQualifier" parent="Source">
+    <name>parasite clearance half life</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000277" type="characteristicQualifier" parent="Source">
+    <name>parasite clearance rate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000278" type="characteristicQualifier" parent="Source">
+    <name>parasite clearance time</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000290" type="characteristicQualifier" parent="Source">
+    <name>parasitemia start time</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000291" type="characteristicQualifier" parent="Source">
+    <name>treatment outcome information</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_health_status" type="characteristicQualifier" parent="Source">
+    <name>health_status</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_time_to_onset" type="characteristicQualifier" parent="Source">
+    <name>time_to_onset</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001305" type="characteristicQualifier" parent="Extract">
+    <name>genotype information</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
+    <name>latitude coordinate measurement datum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
+    <name>longitude coordinate measurement datum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OGMS_0000027" type="characteristicQualifier" parent="Source">
+    <name>clinical phenotype</name>
+  </ontologyTerm>
+
+
+<!-- characteristicValues -->
+  <ontologyTerm source_id="PATO_0000384" type="characteristicValue" parent="characteristicQualifier">
+    <name>male</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="PATO_0000383" type="characteristicValue" parent="characteristicQualifier">
+    <name>female</name>
+  </ontologyTerm>
+
+
+  <ontologyTerm source_id="UO_0000036" type="unit">
+    <name>year</name>
+    <name>years</name>
+  </ontologyTerm>
+
+
+
+
+</ontologyMappings>

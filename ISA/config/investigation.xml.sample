@@ -1,0 +1,27 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+  <study fileName="metaDataTestFile.tab" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>tgonME49Blah</dataset>
+    <dataset>hsapDontCare</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="blood specimen"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="DNA Sequencing"/>
+    <node name="DataTransformation" suffix="Sequence variation"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data collection</protocol>
+    </edge>
+  </study>
+
+</investigation>
