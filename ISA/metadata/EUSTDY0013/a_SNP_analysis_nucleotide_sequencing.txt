@@ -1,2 +1,2 @@
-Extract Name;preiCDC_copyNumberVariations_Sanger_Pr;eichenowiCDC_QuerySRA_RSRC	Protocol REF	Assay Name
+Extract Name	Protocol REF	Assay Name
 Extract PreichenowiCDC	DNA Sequencing	CDC_reference_reads (DNA Sequencing)
