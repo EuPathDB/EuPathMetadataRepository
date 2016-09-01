@@ -3,7 +3,8 @@
   <!-- Protocol Params -->
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>Collection date</name>
-    <function>formatDate</function>
+    <name>collection_timestamp</name>
+    <function>formatDate</function> 
   </ontologyTerm>
   <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
     <name>Year</name>
@@ -15,6 +16,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000655" type="materialType">
     <name>blood specimen</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0000671" type="materialType">
+    <name>sample from organism</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001051" type="materialType">
     <name>DNA extract</name>
@@ -33,6 +37,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0600013" type="protocol">
     <name>data collection</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0200000" type="protocol">
+    <name>data transformation</name>
   </ontologyTerm>
   <ontologyTerm source_id="OGMS_0000090" type="protocol">
     <name>treatment</name>
@@ -54,6 +61,7 @@
 
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
     <name>country name</name>
+	<name>country</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
@@ -75,8 +83,23 @@
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
     <name>biological replicate</name>
   </ontologyTerm>
+  <ontologyTerm source_id="MiXS_host_body_product" type="characteristicQualifier" parent="Sample">
+    <name>host_body_product</name>
+	<name>body_product</name>
+   <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_host_body_site" type="characteristicQualifier" parent="Sample">
+    <name>host_body_site</name>
+    <name>body_site</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_env_material" type="characteristicQualifier" parent="Sample">
+    <name>env_matter</name>
+   <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
   <ontologyTerm source_id="BFO_0000023" type="characteristicQualifier" parent="Source">
     <name>role</name>
+    <name>age_group</name>
   </ontologyTerm>
   <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
     <name>elevation</name>
@@ -107,12 +130,35 @@
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001620" type="characteristicQualifier" parent="Source">
     <name>latitude coordinate measurement datum</name>
+    <name>latitude</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001621" type="characteristicQualifier" parent="Source">
     <name>longitude coordinate measurement datum</name>
+	<name>longitude</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_alt" type="characteristicQualifier" parent="Source">
+    <name>altitude</name>
   </ontologyTerm>
   <ontologyTerm source_id="OGMS_0000027" type="characteristicQualifier" parent="Source">
     <name>clinical phenotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_host_body_habitat" type="characteristicQualifier" parent="Source">
+    <name>body_habitat</name>
+   <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_env_biome" type="characteristicQualifier" parent="Source">
+    <name>env_biome</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_env_feature" type="characteristicQualifier" parent="Source">
+    <name>env_feature</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_host_common_name" type="characteristicQualifier" parent="Source">
+    <name>host_common_name</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="MiXS_host_taxid" type="characteristicQualifier" parent="Source">
+    <name>host_taxid</name>
   </ontologyTerm>
 
 
@@ -123,11 +169,58 @@
   <ontologyTerm source_id="PATO_0000383" type="characteristicValue" parent="characteristicQualifier">
     <name>female</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
+    <name>GAZ:Puerto Rico</name>
+    <name>Puerto Rico</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:multi-cellular organism</name>
+    <name>multi-cellular organism</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_01000246" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:village biome</name>
+    <name>village biome</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_00009004" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:insecta-associated habitat</name>
+    <name>insecta-associated habitat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000479" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:tissue</name>
+    <name>tissue</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:body</name>
+    <name>body</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000456" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:secretion</name>
+    <name>secretion</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000160" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:intestine</name>
+    <name>intestine</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000033" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:head</name>
+    <name>head</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001051" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:hypopharynx</name>
+    <name>hypopharynx</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:organic material</name>
+    <name>organic material</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="UO_0000036" type="unit">
     <name>year</name>
     <name>years</name>
+  </ontologyTerm>
+ <ontologyTerm source_id="UO_0000033" type="unit">
+    <name>day</name>
+    <name>days</name>
   </ontologyTerm>
 
 

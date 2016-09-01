@@ -1,0 +1,9 @@
+<ontologyMappings>
+
+  <ontologyTerm source_id="MiXS_env_feature" type="characteristicQualifier" parent="Source">
+    <name>env_feature</name>
+   
+  <!-- <function>valueIsOntologyTerm</function> -->
+  </ontologyTerm>
+  
+</ontologyMappings>
