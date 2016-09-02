@@ -1,7 +1,7 @@
 <investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
 
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
-
+    <!-- GiardiaDB/gassAWB/SNP/Jex_NGS_SNP/ and GiardiaDB/gassBGS/SNP/Jex_NGS_SNP and GiardiaDB/gassEP15/SNP/Jex_NGS_SNP -->
 
 
 <node name="Source" type="host" suffix="Source"/>  
