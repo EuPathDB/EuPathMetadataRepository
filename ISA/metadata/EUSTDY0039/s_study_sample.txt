@@ -1,0 +1,6 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
+M2903	Tryp white paper sequencing of Leishmania braziliensis M2903 using Illumina from WashU.			Leishmania braziliensis M2903	ECO_0000222
+Seidman751	Tryp white paper sequencing of Leishmania major Seidman 75.1 using Illumina from WashU.			Leishmania major Seidman751	ECO_0000222
+LV39cl5	Tryp white paper sequencing of Leishmania major LV39 cl.5 using Illumina from WashU.			Leishmania major LV39cl5	ECO_0000222
+JRcl4	Tryp white paper sequencing of Trypanosoma cruzi JRcl4 using Illumina from WashU.			Trypanosoma cruzi JRcl4	ECO_0000222
+Cl3	Tryp white paper sequencing of Trypanosoma cruzi Cl3 using Illumina from WashU.			Trypanosoma cruzi Cl3	ECO_0000222
