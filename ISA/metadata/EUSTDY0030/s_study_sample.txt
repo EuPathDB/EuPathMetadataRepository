@@ -1,0 +1,2 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
+V1	Illumina Genome paired end sequencing of Leishmania major strain Friedlin isolate V1			Leishmania major Friedlin	ECO_0000222
