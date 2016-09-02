@@ -1,0 +1,3 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
+TREU927_resequence1	Illumina Genome Analyzer II paired end sequencing based on the TbruTREU927.			Trypanosoma brucei brucei TREU927	ECO_0000222
+STIB247	Illumina Genome Analyzer II paired end sequencing of Trypanosoma brucei strain STIB247			Trypanosoma brucei brucei STIB247	ECO_0000222
