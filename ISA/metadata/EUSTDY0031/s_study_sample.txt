@@ -1,0 +1,18 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
+BHU568A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00002839	NCBITaxon_9606	Leishmania donovani BHU568A1	ECO_0000222
+BHU573A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00002839	NCBITaxon_9606	Leishmania donovani BHU573A1	ECO_0000222
+BPK035A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK035A1	ECO_0000222
+BPK043A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK043A1	ECO_0000222
+BPK067A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK067A1	ECO_0000222
+BPK080A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK080A1	ECO_0000222
+BPK173A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK173A1	ECO_0000222
+BPK178A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK178A1	ECO_0000222
+BPK190A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK190A1	ECO_0000222
+BPK206A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK206A1	ECO_0000222
+BPK275A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK275A1	ECO_0000222
+BPK294A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK294A1	ECO_0000222
+BPK298A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK298A1	ECO_0000222
+BPK085B2	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani  BPK085B2	ECO_0000222
+BPK087A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK087A1	ECO_0000222
+BPK288A1	Whole genome sequencing of 16 Leishmania donovani clinical isolates from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK288A1	ECO_0000222
+BPK282A1_resequence1	Whole genome sequencing of reference Leishmania donovani clinical isolate from Tim Downing.			http://purl.obolibrary.org/obo/GAZ_00004399	NCBITaxon_9606	Leishmania donovani BPK282A1	ECO_0000222
