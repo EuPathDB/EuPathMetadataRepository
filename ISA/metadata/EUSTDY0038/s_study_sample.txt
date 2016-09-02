@@ -1,0 +1,2 @@
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
+gambiense	SNPs based on the Tbgambiense sequence from George Cross.			Trypanosoma brucei gambiense	ECO_0000220
