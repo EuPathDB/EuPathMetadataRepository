@@ -29,7 +29,7 @@
   <!-- oooooooooooooooooooooooooo  Installation  oooooooooooooooooooooooooo -->
   <!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository-Installation" depends="EuPathMetadataRepository/Datasets-Installation">
+  <target name="EuPathMetadataRepository-Installation" depends="EuPathMetadataRepository/ISA-Installation">
     <ant target="defaultProjectInstall">
       <property name="project" value="EuPathMetadataRepository"/>
     </ant>
@@ -52,7 +52,7 @@
 
   <!-- ooooooooooooooooooooooo  Install Components  ooooooooooooooooooooooo -->
 
-  <target name="EuPathMetadataRepository/Datasets-Installation" depends="ProjectTree">
+  <target name="EuPathMetadataRepository/ISA-Installation" depends="ProjectTree">
     <ant target="defaultComponentInstall">
       <property name="project" value="EuPathMetadataRepository"/>
       <property name="component" value="ISA"/>
