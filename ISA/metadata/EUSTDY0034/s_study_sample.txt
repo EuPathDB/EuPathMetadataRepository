@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]	Term Source REF
-STIB805_reference1	Illumina sequencing of Trypanosoma evansi Trypanosoma_evansi-sc-STiB805-1 library			Trypanosoma evansi STIB805	ECO_0000222	ECO
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
+STIB805_reference1	Illumina sequencing of Trypanosoma evansi Trypanosoma_evansi-sc-STiB805-1 library			Trypanosoma evansi STIB805	ECO_0000222
