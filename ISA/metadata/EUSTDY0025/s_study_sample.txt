@@ -1,23 +1,23 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Parameter Value [Year]	Characteristics[OPL_0000232]	Characteristics[Environmental Feature]	Characteristics[Organism Detection Method]
-AF10				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9606	1986	Aspergillus fumigatus AF10	nodular infiltrate in a corticosteroid-treated patient	ECO_0000222
-AF210				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus AF210	hospital acquired infection	ECO_0000222
-AF293_resequence1					NCBITaxon_9606		Aspergillus fumigatus AF293		ECO_0000222
-F11698				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F11698	clinical isolate from patient with an atypical mycobacterium infection, COPD, CCPA and aspergilloma	ECO_0000222
-F14946				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F14946	clinical isolate from patient with sarcoidosis and bilateral large aspergillomas	ECO_0000222
-F15861				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F15861	clinical isolate from a patient with sarcoidosis, CCPA, and bilateral aspergilloma	ECO_0000222
-F16867				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F16867	clinical isolate obtained from sputum	ECO_0000222
-B5852					NCBITaxon_9606		Aspergillus fumigatus B5852		ECO_0000222
-B5854					NCBITaxon_9606		Aspergillus fumigatus B5854		ECO_0000222
-B5856					NCBITaxon_9606		Aspergillus fumigatus B5856		ECO_0000222
-B5859					NCBITaxon_9606		Aspergillus fumigatus B5859		ECO_0000222
-B5863					NCBITaxon_9606		Aspergillus fumigatus B5863		ECO_0000222
-B5866					NCBITaxon_9606		Aspergillus fumigatus B5866		ECO_0000222
-B5868					NCBITaxon_9606		Aspergillus fumigatus B5868		ECO_0000222
-B6069					NCBITaxon_9606		Aspergillus fumigatus B6069		ECO_0000222
-B6074					NCBITaxon_9606		Aspergillus fumigatus B6074		ECO_0000222
-B6078					NCBITaxon_9606		Aspergillus fumigatus B6078		ECO_0000222
-B6079					NCBITaxon_9606		Aspergillus fumigatus B6079		ECO_0000222
-B6081					NCBITaxon_9606		Aspergillus fumigatus B6081		ECO_0000222
-F11628					NCBITaxon_9606		Aspergillus fumigatus F11628		ECO_0000222
-F12865					NCBITaxon_9606		Aspergillus fumigatus F12865		ECO_0000222
-F15767					NCBITaxon_9606		Aspergillus fumigatus F15767		ECO_0000222
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[GAZ_00000448]	Characteristics[OBI_0100026]	Parameter Value [Year]	Characteristics[OPL_0000232]	Characteristics[Environmental Feature]
+AF10				http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9606	1986	Aspergillus fumigatus AF10	nodular infiltrate in a corticosteroid-treated patient
+AF210				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus AF210	hospital acquired infection
+AF293_resequence1					NCBITaxon_9606		Aspergillus fumigatus AF293	
+F11698				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F11698	clinical isolate from patient with an atypical mycobacterium infection, COPD, CCPA and aspergilloma
+F14946				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F14946	clinical isolate from patient with sarcoidosis and bilateral large aspergillomas
+F15861				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F15861	clinical isolate from a patient with sarcoidosis, CCPA, and bilateral aspergilloma
+F16867				http://purl.obolibrary.org/obo/GAZ_00002637	NCBITaxon_9606		Aspergillus fumigatus F16867	clinical isolate obtained from sputum
+B5852					NCBITaxon_9606		Aspergillus fumigatus B5852	
+B5854					NCBITaxon_9606		Aspergillus fumigatus B5854	
+B5856					NCBITaxon_9606		Aspergillus fumigatus B5856	
+B5859					NCBITaxon_9606		Aspergillus fumigatus B5859	
+B5863					NCBITaxon_9606		Aspergillus fumigatus B5863	
+B5866					NCBITaxon_9606		Aspergillus fumigatus B5866	
+B5868					NCBITaxon_9606		Aspergillus fumigatus B5868	
+B6069					NCBITaxon_9606		Aspergillus fumigatus B6069	
+B6074					NCBITaxon_9606		Aspergillus fumigatus B6074	
+B6078					NCBITaxon_9606		Aspergillus fumigatus B6078	
+B6079					NCBITaxon_9606		Aspergillus fumigatus B6079	
+B6081					NCBITaxon_9606		Aspergillus fumigatus B6081	
+F11628					NCBITaxon_9606		Aspergillus fumigatus F11628	
+F12865					NCBITaxon_9606		Aspergillus fumigatus F12865	
+F15767					NCBITaxon_9606		Aspergillus fumigatus F15767	

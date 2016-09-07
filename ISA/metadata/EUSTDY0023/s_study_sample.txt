@@ -1,2 +1,2 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]	Characteristics[Organism Detection Method]
-RH				Toxoplasma gondii RH	ECO_0000222
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics[OPL_0000232]
+RH				Toxoplasma gondii RH
