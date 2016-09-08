@@ -7,12 +7,12 @@ GAB2-2007-GAL-DOM2	Toxoplasma gondii GAB2-2007-GAL-DOM2 whole genome, Illumina r
 GT1	Toxoplasma gondii GT1 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9940	1980	Toxoplasma gondii GT1	1
 MAS	Toxoplasma gondii MAS whole genome,Human(congenital,) Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002940	NCBITaxon_9606	1991	Toxoplasma gondii MAS	4
 p89	Toxoplasma gondii p89 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9823	1991	Toxoplasma gondii p89	9
-RUB	Toxoplasma gondii RUB whole genome,Human(adult), Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9606	1992	Toxoplasma gondii RUB	5
+RUB	Toxoplasma gondii RUB whole genome,Human(adult), Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9606	1992	Toxoplasma gondii RUB	5
 TgCat_PRC2	Toxoplasma gondii wTgCat PRC2 hole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002845	NCBITaxon_9685	2007	Toxoplasma gondii TgCat PRC2	13
 TgCATBr5	Toxoplasma gondii TgCATBr5 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002828	NCBITaxon_9685	2006	Toxoplasma gondii TgCATBr5	8
 TgCATBr9	Toxoplasma gondii TgCATBr5 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002828	NCBITaxon_9685	2006	Toxoplasma gondii TgCATBr9	6b
 TgCtCo5	Toxoplasma gondii TgCtCo5 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002929	NCBITaxon_9685	2006	Toxoplasma gondii TgCtCo5	15
-VAND	Toxoplasma gondii VAND whole genome,Human(adult) Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9606	1996	Toxoplasma gondii VAND	10
+VAND	Toxoplasma gondii VAND whole genome,Human(adult) Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9606	1996	Toxoplasma gondii VAND	10
 VEG	Toxoplasma gondii VEG whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9925	1988	Toxoplasma gondii VEG	3
 B41	Toxoplasma gondii B41 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9641	1994	Toxoplasma gondii B41	12
 B73	Toxoplasma gondii B73 whole genome, Illumina reads submitted to SRA				NCBITaxon_9641	1994	Toxoplasma gondii B73	2
@@ -20,8 +20,8 @@ BOF	Toxoplasma gondii BOF whole genome, Illumina reads submitted to SRA				NCBIT
 BRC_TgH_18001_GUY-DOS	Toxoplasma gondii BRC TgH 18001 GUY-DOS whole genome,Human(adult) Illumina reads submitted to SRA				NCBITaxon_9606	1997	Toxoplasma gondii BRC TgH 18001 GUY-DOS	10
 BRC_TgH_18002_GUY-KOE	Toxoplasma gondii BRC TgH 18002 GUY-KOE whole genome,Human(adult), Illumina reads submitted to SRA				NCBITaxon_9606	2002	Toxoplasma gondii BRC TgH 18002 GUY-KOE	5
 BRC_TgH_18003_GUY-MAT	Toxoplasma gondii BRC TgH 18003 GUY-MAT whole genome,Human(adult), Illumina reads submitted to SRA				NCBITaxon_9606	2002	Toxoplasma gondii BRC TgH 18003 GUY-MAT	5
-BRC_TgH_18009	Toxoplasma gondii BRC TgH 18009 whole genome,Human(adult), Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9606	2004	Toxoplasma gondii BRC TgH 18009	10
-BRC_TgH_18021	Toxoplasma gondii BRC TgH 18021 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9606	2006	Toxoplasma gondii BRC TgH 18021	10
+BRC_TgH_18009	Toxoplasma gondii BRC TgH 18009 whole genome,Human(adult), Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9606	2004	Toxoplasma gondii BRC TgH 18009	10
+BRC_TgH_18021	Toxoplasma gondii BRC TgH 18021 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9606	2006	Toxoplasma gondii BRC TgH 18021	10
 BRC_TgH_20005	Toxoplasma gondii BRC TgH 20005 whole genome,Human(congenital), Illumina reads submitted to SRA				NCBITaxon_9606	2002	Toxoplasma gondii BRC TgH 20005	4
 BRC_TgH_21016	Toxoplasma gondii BRC TgH 21016 whole genome,Human(congenital), Illumina reads submitted to SRA				NCBITaxon_9606	2007	Toxoplasma gondii BRC TgH 21016	4
 CASTELLS	Toxoplasma gondii CASTELLS whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002930	NCBITaxon_9940	1993	Toxoplasma gondii CASTELLS	4
@@ -31,9 +31,9 @@ GAB3-2007-GAL-DOM2	Toxoplasma gondii GAB3-2007-GAL-DOM2 whole genome, Illumina r
 GAB3-2007-GAL-DOM9	Toxoplasma gondii GAB3-2007-GAL-DOM9 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00001092	NCBITaxon_9031	2007	Toxoplasma gondii GAB3-2007-GAL-DOM9	14
 GAB5-2007-GAL-DOM1	Toxoplasma gondii GAB5-2007-GAL-DOM1 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00001092	NCBITaxon_9031	2007	Toxoplasma gondii GAB5-2007-GAL-DOM1	6a
 GAB5-2007-GAL-DOM6	Toxoplasma gondii GAB5-2007-GAL-DOM6 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00001092	NCBITaxon_9031	2007	Toxoplasma gondii GAB5-2007-GAL-DOM6	14
-GUY-2003-MEL	Toxoplasma gondii GUY-2003-MEL whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9606	2004	Toxoplasma gondii GUY-2003-MEL	5
-GUY-2004-JAG1	Toxoplasma gondii GUY-2004-JAG1 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9690	2004	Toxoplasma gondii GUY-2004-JAG1	11
-GUY-2004-ABE	Toxoplasma gondii wGUY-2004-ABE hole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002516	NCBITaxon_9606	2004	Toxoplasma gondii GUY-2004-ABE	5
+GUY-2003-MEL	Toxoplasma gondii GUY-2003-MEL whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9606	2004	Toxoplasma gondii GUY-2003-MEL	5
+GUY-2004-JAG1	Toxoplasma gondii GUY-2004-JAG1 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9690	2004	Toxoplasma gondii GUY-2004-JAG1	11
+GUY-2004-ABE	Toxoplasma gondii wGUY-2004-ABE hole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00067144	NCBITaxon_9606	2004	Toxoplasma gondii GUY-2004-ABE	5
 M7741	Toxoplasma gondii M7741 whole genome, Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002459	NCBITaxon_9940	1958	Toxoplasma gondii M7741	3
 PRU	Toxoplasma gondii PRU whole genome,Human(congenital), Illumina reads submitted to SRA			http://purl.obolibrary.org/obo/GAZ_00002940	NCBITaxon_9606	1964	Toxoplasma gondii PRU	2
 RAY	Toxoplasma gondii RAY whole genome,,Human(congenital), Illumina reads submitted to SRA				NCBITaxon_9606	1993	Toxoplasma gondii RAY	12
