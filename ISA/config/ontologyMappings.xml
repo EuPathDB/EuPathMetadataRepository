@@ -1,5 +1,20 @@
 <ontologyMappings>
 
+  <ontologySource>OBI</ontologySource>
+  <ontologySource>ICEMR</ontologySource>
+  <ontologySource>EuPath</ontologySource>
+  <ontologySource>GAZ</ontologySource>
+  <ontologySource>ECO</ontologySource>
+  <ontologySource>PATO</ontologySource>
+  <ontologySource>OPL</ontologySource>
+  <ontologySource>ENVO</ontologySource>
+  <ontologySource>UBERON</ontologySource>
+  <ontologySource>PO</ontologySource>
+  <ontologySource>NCBITAXON</ontologySource>
+  <ontologySource>EFO</ontologySource>
+  <ontologySource>UO</ontologySource>
+  
+
   <!-- Protocol Params -->
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>Collection date</name>
@@ -14,6 +29,10 @@
   <ontologyTerm source_id="GO_0018995" type="materialType">
     <name>host</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001876" type="materialType">
+    <name>cell culture</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="OBI_0000655" type="materialType">
     <name>blood specimen</name>
   </ontologyTerm>
@@ -54,11 +73,13 @@
 
 
   <!-- Characteristics -->
+  <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Source">
+    <name>haplogroup</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
     <name>geographic location</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
     <name>country name</name>
 	<name>country</name>
@@ -70,7 +91,6 @@
   </ontologyTerm>
   <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Source">
     <name>parasite organism</name>
-    <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
