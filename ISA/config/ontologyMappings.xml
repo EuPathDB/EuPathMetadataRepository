@@ -13,16 +13,19 @@
   <ontologySource>NCBITAXON</ontologySource>
   <ontologySource>EFO</ontologySource>
   <ontologySource>UO</ontologySource>
-  
+
+
 
   <!-- Protocol Params -->
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>Collection date</name>
     <name>collection_timestamp</name>
+    <name>Specimen Collection Date</name>
     <function>formatDate</function> 
   </ontologyTerm>
   <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
     <name>Year</name>
+    <name>Specimen Collection Year</name>
   </ontologyTerm>
 
   <!-- Material Entity Types -->
@@ -73,6 +76,16 @@
 
 
   <!-- Characteristics -->
+  <ontologyTerm source_id="OGMS_0000031" type="characteristicQualifier" parent="Source">
+    <name>Source Disease</name>
+    <name>Disease</name>  <!-- this is the term name -->
+  </ontologyTerm>
+
+  <ontologyTerm source_id="ENVO_00010483" type="characteristicQualifier" parent="Source">
+    <name>Environmental Feature</name>
+    <name>environmental material</name> <!-- this is the term name -->
+  </ontologyTerm>
+
   <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Source">
     <name>haplogroup</name>
   </ontologyTerm>
@@ -92,10 +105,13 @@
   <ontologyTerm source_id="OPL_0000232" type="characteristicQualifier" parent="Source">
     <name>parasite organism</name>
   </ontologyTerm>
+
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
+    <name>PATO_0000011</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
+
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
     <name>sex</name>
     <function>valueIsOntologyTerm</function>
