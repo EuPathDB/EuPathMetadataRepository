@@ -1,0 +1,247 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+  <study fileName="s_study_sample_Southern_Africa.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+ 
+   <dataset>pfal3D7_microarrayAntibody_Southern_Africa_ICEMR_RSRC</dataset>
+   <node name="Source" type="host" suffix="Source"/>  
+   <node name="Sample" type="sample from organism"/>  
+   <node name="Extract" type="DNA extract" suffix="Extract"/>
+   <node name="Assay" suffix="Assay"/>
+   <node name="DataTransformation" suffix="protein_microarray"/>
+    
+   <edge input="Source" output="Sample">
+     <protocol>specimen collection</protocol>
+   </edge>
+   <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+   </edge>
+   <edge input="Extract" output="Assay">
+     <protocol>DNA sequencing</protocol>
+   </edge>
+   <edge input="Assay" output="DataTransformation">
+     <protocol>data transformation</protocol>
+   </edge>
+  </study>
+  
+  <study fileName="s_study_sample_Amazonia.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_Amazonia_ICEMR_RSRC</dataset>
+    
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_South_Pacific_PNG.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_South_Pacific_PNG_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_Malawi.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_Malawi_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_South_Africa_Zambia_Jun.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_South_Africa_Zambia_Jun_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_Amazonia_Peru.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_Amazonia_Peru_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_Southeast_Asia.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_Southeast_Asia_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_South_Africa_Zambia_Dec.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_South_Africa_Zambia_Dec_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_Amazonia_Brazil.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+<dataset>pfal3D7_microarrayAntibody_Amazonia_Brazil_ICEMR_RSRC</dataset>
+  <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_Uganda_East_Africa.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>pfal3D7_microarrayAntibody_Uganda_East_Africa_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+
+    <edge input="Source" output="Sample">
+      <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+  
+  <study fileName="s_study_sample_South_Pacific.txt" identifierSuffix="-1" sampleRegex="EUSMPL"> 
+    <dataset>pfal3D7_microarrayAntibody_South_Pacific_ICEMR_RSRC</dataset>
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="protein_microarray"/>
+    
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+      <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+      <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+</investigation>

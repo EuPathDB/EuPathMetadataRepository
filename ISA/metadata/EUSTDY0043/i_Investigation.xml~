@@ -1,0 +1,141 @@
+<investigation identifierRegex="^(EUSTDY)\d+$" identifierIsDirectoryName="true">
+
+  <study fileName="s_study_sample_1064.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>otu_EMP_1064_Bee_Microbiome_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_797.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>otu_EMP_797_Song_Family_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_1927.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>otu_EMP_1927_HMP_V13_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_1928.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>otu_EMP_1928_HMP_V35_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_2192.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>otu_EMP_2192_Gilbert_House_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="s_study_sample_10249.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
+    <dataset>otu_EMP_10249_ECAM_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>  
+    <node name="Sample" type="sample from organism"/>  
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+</investigation>

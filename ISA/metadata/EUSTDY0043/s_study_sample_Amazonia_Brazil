@@ -1,0 +1,265 @@
+Source Name	Characteristics [sample_origin]	Characteristics [irb_number]	Characteristics [subject]	Characteristics [date_of_birth]	Characteristics [Age]	Characteristics [sex]	Comment [sample_id]	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [gps_longitude]	Characteristics [gps_latitude]	Characteristics [gps_location]	Characteristics [gps_other]	Characteristics [study_type]	Characteristics [study_other]	Characteristics [collection_type]	Characteristics [follow_up_day]	Characteristics [health_status]	Characteristics [pregnancy_status]	Characteristics [hospitalized]	Characteristics [fever]	Characteristics [fever_duration]	Characteristics [Temperature]	Characteristics [temperature_measurement_method]	Characteristics [severe_anemia]	Characteristics [cerebral]	Characteristics [respiratory_distress]	Characteristics [ards]	Characteristics [jaundice]	Characteristics [convulsions]	Characteristics [hypoglycemia]	Characteristics [renal_failure]	Characteristics [abnormal_bleeding]	Characteristics [shock]	Characteristics [coma]	Characteristics [electrolyte_disturbances]	Characteristics [rdt_result]	Characteristics [type_of_rdt]	Characteristics [microscopy_result]	Characteristics [parasite_density_by_microscope]	Characteristics [pcr_result]	Characteristics [p_vivax_parasite_density_by_pcr]	Characteristics [pcr_method]	Characteristics [gametocytes]	Characteristics [gametocyte_density_by_microscope]	Characteristics [gametocyte_density_by_rt_pcr]	Characteristics [gametocytes_detection_method]	Characteristics [other_method]	Characteristics [falciparum]	Characteristics [malariae]	Characteristics [ovale]	Characteristics [vivax]	Characteristics [knowlesi]	Characteristics [hemoglobin_level]	Characteristics [comments]	Characteristics [host_genetics]	Characteristics [parasite_genetics]	Characteristics [immune_responses]	Characteristics [other_molecular]	Characteristics [data_consent]	Characteristics [future_use_consent]	Characteristics [Organism]	Characteristics [StrainOrLine]	Characteristics [BioSourceType]	Characteristics [Host]
+Amazonia_163D__	Amazonia		163		10	Female	163D	10/19/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_124D__	Amazonia		124		5	Female	124D	10/11/2011	Brazil						cross-sectional		follow up	202																																									Yes							
+Amazonia_35A__	Amazonia		35		34	Female	35A	3/29/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	37.68							Negative			Positive						Yes							
+Amazonia_84A__	Amazonia		84		35	Male	84A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_65G__	Amazonia		65		38	Female	65G	10/22/2012	Brazil						cross-sectional		follow up	937																																									Yes							
+Amazonia_123G__	Amazonia		123		8	Male	123G	10/22/2012	Brazil						cross-sectional		follow up	579																																									Yes							
+Amazonia_71B__	Amazonia		71		6	Male	71B	7/6/2010	Brazil						cross-sectional		follow up	98																																									Yes							
+Amazonia_153H__	Amazonia		153		16	Female	153H	4/19/2013	Brazil						cross-sectional		follow up	1106																																									Yes							
+Amazonia_160G__	Amazonia		160		28	Female	160G	11/5/2012	Brazil						cross-sectional		follow up	942																																									Yes							
+Amazonia_118H__	Amazonia		118		57	Male	118H	4/16/2013	Brazil						cross-sectional		follow up	1014																																									Yes							
+Amazonia_155G__	Amazonia		155		43	Female	155G	11/9/2012	Brazil						cross-sectional		follow up	946																																									Yes							
+Amazonia_131E__	Amazonia		131		13	Female	131E	4/17/2012	Brazil						cross-sectional		follow up	741	symptomatic																					Positive		Positive	1850.54							Negative			Positive						Yes							
+Amazonia_105C__	Amazonia		105		10	Male	105C	3/21/2011	Brazil						cross-sectional		follow up	349																																									Yes							
+Amazonia_130A__	Amazonia		130		57	Male	130A	4/7/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_130B__	Amazonia		130		57	Male	130B	7/8/2010	Brazil						cross-sectional		follow up	92																																									Yes							
+Amazonia_08D__	Amazonia		8		41	Male	08D	10/11/2011	Brazil						cross-sectional		follow up	566																																									Yes							
+Amazonia_104H__	Amazonia		104		36	Female	104H	4/16/2013	Brazil						cross-sectional		follow up	1106																																									Yes							
+Amazonia_84B__	Amazonia		84		35	Male	84B	6/20/2010	Brazil						cross-sectional		follow up	75																																									Yes							
+Amazonia_81H__	Amazonia		81		49	Male	81H	4/19/2013	Brazil						cross-sectional		follow up	1116																																									Yes							
+Amazonia_35E__	Amazonia		35		34	Female	35E	4/12/2012	Brazil						cross-sectional		follow up	745																																									Yes							
+Amazonia_173E__	Amazonia		173		36	Female	173E	4/16/2012	Brazil						cross-sectional		follow up	738																																									Yes							
+Amazonia_107E__	Amazonia		107		15	Female	107E	4/25/2012	Brazil						cross-sectional		follow up	750																																									Yes							
+Amazonia_68C__	Amazonia		68		16	Male	68C	3/25/2011	Brazil						cross-sectional		follow up	360																																									Yes							
+Amazonia_120H__	Amazonia		120		35	Male	120H	4/19/2013	Brazil						cross-sectional		follow up	1109																																									Yes							
+Amazonia_163C__	Amazonia		163		10	Female	163C	3/25/2011	Brazil						cross-sectional		follow up	351																																									Yes							
+Amazonia_08C__	Amazonia		8		41	Male	08C	3/21/2011	Brazil						cross-sectional		follow up	362																																									Yes							
+Amazonia_69B__	Amazonia		69		13	Female	69B	7/6/2010	Brazil						cross-sectional		follow up	98																																									Yes							
+Amazonia_104A__	Amazonia		104		36	Female	104A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_106B__	Amazonia		106		12	Male	106B	6/29/2010	Brazil						cross-sectional		follow up	84																																									Yes							
+Amazonia_104D__	Amazonia		104		36	Female	104D	10/13/2011	Brazil						cross-sectional		follow up	555																																									Yes							
+Amazonia_90G__	Amazonia		90		29	Male	90G	10/31/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_106E__	Amazonia		106		12	Male	106E	4/11/2012	Brazil						cross-sectional		follow up	736																																									Yes							
+Amazonia_163A__	Amazonia		163		10	Female	163A	4/8/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_81E__	Amazonia		81		49	Male	81E	4/16/2012	Brazil						cross-sectional		follow up	748																																									Yes							
+Amazonia_173G__	Amazonia		173		36	Female	173G	10/31/2012	Brazil						cross-sectional		follow up	936																																									Yes							
+Amazonia_01H__	Amazonia		1		3	Male	01H	4/15/2013	Brazil						cross-sectional		follow up	754																																									Yes							
+Amazonia_66C__	Amazonia		66		52	Male	66C	3/24/2011	Brazil						cross-sectional		follow up	359																																									Yes							
+Amazonia_94A__	Amazonia		94		47	Male	94A	4/5/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_120C__	Amazonia		120		35	Male	120C	3/23/2011	Brazil						cross-sectional		follow up	351																																									Yes							
+Amazonia_159D__	Amazonia		159		29	Male	159D	10/20/2011	Brazil						cross-sectional		follow up	472	symptomatic																					Positive		Positive	184.26							Negative			Positive						Yes							
+Amazonia_89H__	Amazonia		89		21	Female	89H	4/19/2013	Brazil						cross-sectional		follow up	1110																																									Yes							
+Amazonia_153A__	Amazonia		153		16	Female	153A	4/9/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	9.74							Negative			Positive						Yes							
+Amazonia_48H__	Amazonia		48		8	Male	48H	4/5/2013	Brazil						cross-sectional		follow up	1103																																									Yes							
+Amazonia_08E__	Amazonia		8		41	Male	08E	4/11/2012	Brazil						cross-sectional		follow up	749																																									Yes							
+Amazonia_131H__	Amazonia		131		13	Female	131H	4/22/2013	Brazil						cross-sectional		follow up	1111																																									Yes							
+Amazonia_185H__	Amazonia		185		56	Male	185H	4/23/2013	Brazil						cross-sectional		follow up	1109																																									Yes							
+Amazonia_124C__	Amazonia		124		5	Female	124C	3/23/2011	Brazil						cross-sectional		original																																										Yes							
+Amazonia_71A__	Amazonia		71		6	Male	71A	3/30/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_130E__	Amazonia		130		57	Male	130E	4/17/2012	Brazil						cross-sectional		follow up	741																																									Yes							
+Amazonia_104G__	Amazonia		104		36	Female	104G	11/1/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_174C__	Amazonia		174		15	Female	174C	3/25/2011	Brazil						cross-sectional		follow up	261																																									Yes							
+Amazonia_114A__	Amazonia		114		18	Male	114A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_104B__	Amazonia		104		36	Female	104B	6/29/2010	Brazil						cross-sectional		follow up	84																																									Yes							
+Amazonia_70C__	Amazonia		70		10	Male	70C	3/25/2011	Brazil						cross-sectional		follow up	360																																									Yes							
+Amazonia_172H__	Amazonia		172		41	Male	172H	4/4/2013	Brazil						cross-sectional		follow up	1091																																									Yes							
+Amazonia_118C__	Amazonia		118		57	Male	118C	3/24/2011	Brazil						cross-sectional		follow up	260																																									Yes							
+Amazonia_131D__	Amazonia		131		13	Female	131D	10/20/2011	Brazil						cross-sectional		follow up	561	symptomatic																					Negative		Positive	16.77							Negative			Positive						Yes							
+Amazonia_149H__	Amazonia		149		41	Male	149H	4/22/2013	Brazil						cross-sectional		follow up	1109																																									Yes							
+Amazonia_154D__	Amazonia		154		51	Male	154D	10/24/2011	Brazil						cross-sectional		follow up	476	symptomatic																					Positive		Positive	1273.22							Negative			Positive						Yes							
+Amazonia_47B__	Amazonia		47		9	Male	47B	7/1/2010	Brazil						cross-sectional		follow up	94																																									Yes							
+Amazonia_70D__	Amazonia		70		10	Male	70D	10/10/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_48G__	Amazonia		48		8	Male	48G	10/24/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_72C__	Amazonia		72		5	Female	72C	3/25/2011	Brazil						cross-sectional		follow up	262																																									Yes							
+Amazonia_94G__	Amazonia		94		47	Male	94G	11/1/2012	Brazil						cross-sectional		follow up	941																																									Yes							
+Amazonia_72B__	Amazonia		72		5	Female	72B	7/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_107D__	Amazonia		107		15	Female	107D	10/13/2011	Brazil						cross-sectional		follow up	555																																									Yes							
+Amazonia_69D__	Amazonia		69		13	Female	69D	10/10/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_106D__	Amazonia		106		12	Male	106D	10/13/2011	Brazil						cross-sectional		follow up	555																																									Yes							
+Amazonia_148A__	Amazonia		148		45	Female	148A	4/9/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_71C__	Amazonia		71		6	Male	71C	3/24/2011	Brazil						cross-sectional		follow up	359																																									Yes							
+Amazonia_70E__	Amazonia		70		10	Male	70E	4/14/2012	Brazil						cross-sectional		follow up	746																																									Yes							
+Amazonia_148H__	Amazonia		148		45	Female	148H	4/16/2013	Brazil						cross-sectional		follow up	1103																																									Yes							
+Amazonia_65D__	Amazonia		65		38	Female	65D	10/10/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_68B__	Amazonia		68		16	Male	68B	7/6/2010	Brazil						cross-sectional		follow up	98																																									Yes							
+Amazonia_68G__	Amazonia		68		16	Male	68G	10/22/2012	Brazil						cross-sectional		follow up	937																																									Yes							
+Amazonia_95A__	Amazonia		95		48	Male	95A	4/5/2010	Brazil						cross-sectional		original		symptomatic																					Positive		Positive	2015.24							Negative			Positive						Yes							
+Amazonia_131B__	Amazonia		131		13	Female	131B	7/8/2010	Brazil						cross-sectional		follow up	92	asymptomatic																					Positive		Positive	14.74							Negative			Positive						Yes							
+Amazonia_120A__	Amazonia		120		35	Male	120A	4/6/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive								Positive			Negative						Yes							
+Amazonia_185C__	Amazonia		185		56	Male	185C	4/8/2011	Brazil						cross-sectional		follow up	363																																									Yes							
+Amazonia_106C__	Amazonia		106		12	Male	106C	3/21/2011	Brazil						cross-sectional		follow up	349																																									Yes							
+Amazonia_154E__	Amazonia		154		51	Male	154E	4/17/2012	Brazil						cross-sectional		follow up	652																																									Yes							
+Amazonia_48C__	Amazonia		48		8	Male	48C	3/23/2011	Brazil						cross-sectional		follow up	359																																									Yes							
+Amazonia_107A__	Amazonia		107		15	Female	107A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_40B__	Amazonia		40		22	Female	40B	6/30/2010	Brazil						cross-sectional		follow up	93	asymptomatic																					Negative		Positive	546.14							Negative			Positive						Yes							
+Amazonia_47C__	Amazonia		47		9	Male	47C	3/23/2011	Brazil						cross-sectional		follow up	359																																									Yes							
+Amazonia_160A__	Amazonia		160		28	Female	160A	4/8/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_110D__	Amazonia		110		26	Male	110D	10/25/2011	Brazil						cross-sectional		original																																										Yes							
+Amazonia_160E__	Amazonia		160		28	Female	160E	4/13/2012	Brazil						cross-sectional		follow up	736																																									Yes							
+Amazonia_40E__	Amazonia		40		22	Female	40E	4/11/2012	Brazil						cross-sectional		follow up	744																																									Yes							
+Amazonia_50C__	Amazonia		50		17	Male	50C	3/23/2011	Brazil						cross-sectional		follow up	359																																									Yes							
+Amazonia_164B__	Amazonia		164		7	Female	164B	7/5/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_132D__	Amazonia		132		39	Female	132D	10/20/2011	Brazil						cross-sectional		follow up	198																																									Yes							
+Amazonia_164D__	Amazonia		164		7	Female	164D	10/25/2011	Brazil						cross-sectional		follow up	477																																									Yes							
+Amazonia_42E__	Amazonia		42		2	Male	42E	4/11/2012	Brazil						cross-sectional		follow up	744																																									Yes							
+Amazonia_174H__	Amazonia		174		15	Female	174H	4/22/2013	Brazil						cross-sectional		follow up	1020																																									Yes							
+Amazonia_131C__	Amazonia		131		13	Female	131C	4/5/2011	Brazil						cross-sectional		follow up	363																																									Yes							
+Amazonia_51H__	Amazonia		51		56	Male	51H	4/4/2013	Brazil						cross-sectional		follow up	1102																																									Yes							
+Amazonia_184D__	Amazonia		184		56	Male	184D	10/29/2011	Brazil						cross-sectional		follow up	567																																									Yes							
+Amazonia_106A__	Amazonia		106		12	Male	106A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_174D__	Amazonia		174		15	Female	174D	10/19/2011	Brazil						cross-sectional		follow up	469																																									Yes							
+Amazonia_154G__	Amazonia		154		51	Male	154G	10/31/2012	Brazil						cross-sectional		follow up	849																																									Yes							
+Amazonia_176D__	Amazonia		176		12	Male	176D	10/19/2011	Brazil						cross-sectional		original																																										Yes							
+Amazonia_72D__	Amazonia		72		5	Female	72D	10/10/2011	Brazil						cross-sectional		follow up	461																																									Yes							
+Amazonia_173A__	Amazonia		173		36	Female	173A	4/9/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_132H__	Amazonia		132		39	Female	132H	4/22/2013	Brazil						cross-sectional		follow up	748																																									Yes							
+Amazonia_107C__	Amazonia		107		15	Female	107C	3/21/2011	Brazil						cross-sectional		follow up	265																																									Yes							
+Amazonia_107B__	Amazonia		107		15	Female	107B	6/29/2010	Brazil						cross-sectional		follow up	84	asymptomatic																					Negative		Positive								Positive			Negative						Yes							
+Amazonia_87D__	Amazonia		87		46	Male	87D	10/25/2011	Brazil						cross-sectional		follow up	568																																									Yes							
+Amazonia_132C__	Amazonia		132		39	Female	132C	4/5/2011	Brazil						cross-sectional		original																																										Yes							
+Amazonia_40C__	Amazonia		40		22	Female	40C	3/21/2011	Brazil						cross-sectional		follow up	357																																									Yes							
+Amazonia_174G__	Amazonia		174		15	Female	174G	10/31/2012	Brazil						cross-sectional		follow up	847																																									Yes							
+Amazonia_152G__	Amazonia		152		15	Female	152G	11/8/2012	Brazil						cross-sectional		follow up	944																																									Yes							
+Amazonia_69E__	Amazonia		69		13	Female	69E	4/14/2012	Brazil						cross-sectional		follow up	746																																									Yes							
+Amazonia_87E__	Amazonia		87		46	Male	87E	4/14/2012	Brazil						cross-sectional		follow up	740																																									Yes							
+Amazonia_114H__	Amazonia		114		18	Male	114H	4/16/2013	Brazil						cross-sectional		follow up	1106																																									Yes							
+Amazonia_173H__	Amazonia		173		36	Female	173H	4/16/2013	Brazil						cross-sectional		follow up	1103																																									Yes							
+Amazonia_44E__	Amazonia		44		20	Female	44E	4/11/2012	Brazil						cross-sectional		follow up	693																																									Yes							
+Amazonia_51A__	Amazonia		51		56	Male	51A	3/29/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive								Positive			Negative						Yes							
+Amazonia_47A__	Amazonia		47		9	Male	47A	3/29/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_120G__	Amazonia		120		35	Male	120G	10/22/2012	Brazil						cross-sectional		follow up	930																																									Yes							
+Amazonia_44D__	Amazonia		44		20	Female	44D	10/14/2011	Brazil						cross-sectional		follow up	513																																									Yes							
+Amazonia_01E__	Amazonia		1		3	Male	01E	4/16/2012	Brazil						cross-sectional		follow up	390																																									Yes							
+Amazonia_172E__	Amazonia		172		41	Male	172E	4/16/2012	Brazil						cross-sectional		follow up	738																																									Yes							
+Amazonia_164C__	Amazonia		164		7	Female	164C	3/25/2011	Brazil						cross-sectional		follow up	263																																									Yes							
+Amazonia_95H__	Amazonia		95		48	Male	95H	4/3/2013	Brazil						cross-sectional		follow up	1094																																									Yes							
+Amazonia_159G__	Amazonia		159		29	Male	159G	10/30/2012	Brazil						cross-sectional		follow up	848																																									Yes							
+Amazonia_89B__	Amazonia		89		21	Female	89B	7/5/2010	Brazil						cross-sectional		follow up	91																																									Yes							
+Amazonia_42G__	Amazonia		42		2	Male	42G	10/31/2012	Brazil						cross-sectional		follow up	947																																									Yes							
+Amazonia_123H__	Amazonia		123		8	Male	123H	4/15/2013	Brazil						cross-sectional		follow up	754																																									Yes							
+Amazonia_160D__	Amazonia		160		28	Female	160D	10/19/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_71E__	Amazonia		71		6	Male	71E	4/14/2012	Brazil						cross-sectional		follow up	746																																									Yes							
+Amazonia_84E__	Amazonia		84		35	Male	84E	4/11/2012	Brazil						cross-sectional		follow up	736																																									Yes							
+Amazonia_163E__	Amazonia		163		10	Female	163E	4/13/2012	Brazil						cross-sectional		follow up	736																																									Yes							
+Amazonia_70B__	Amazonia		70		10	Male	70B	7/6/2010	Brazil						cross-sectional		follow up	98																																									Yes							
+Amazonia_176H__	Amazonia		176		12	Male	176H	4/16/2013	Brazil						cross-sectional		follow up	545																																									Yes							
+Amazonia_159C__	Amazonia		159		29	Male	159C	4/5/2011	Brazil						cross-sectional		follow up	274																																									Yes							
+Amazonia_66A__	Amazonia		66		52	Male	66A	3/30/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	10.34							Negative			Positive						Yes							
+Amazonia_84C__	Amazonia		84		35	Male	84C	3/21/2011	Brazil						cross-sectional		follow up	349																																									Yes							
+Amazonia_114E__	Amazonia		114		18	Male	114E	4/13/2012	Brazil						cross-sectional		follow up	738																																									Yes							
+Amazonia_123D__	Amazonia		123		8	Male	123D	10/11/2011	Brazil						cross-sectional		follow up	202	asymptomatic																					Negative		Positive	21.25							Negative			Positive						Yes							
+Amazonia_173B__	Amazonia		173		36	Female	173B	7/7/2010	Brazil						cross-sectional		follow up	89																																									Yes							
+Amazonia_86C__	Amazonia		86		37	Female	86C	3/21/2011	Brazil						cross-sectional		follow up	350																																									Yes							
+Amazonia_42A__	Amazonia		42		2	Male	42A	3/29/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_157E__	Amazonia		157		5	Female	157E	4/17/2012	Brazil						cross-sectional		original																																										Yes							
+Amazonia_114G__	Amazonia		114		18	Male	114G	10/26/2012	Brazil						cross-sectional		follow up	934																																									Yes							
+Amazonia_69H__	Amazonia		69		13	Female	69H	4/16/2013	Brazil						cross-sectional		follow up	1113																																									Yes							
+Amazonia_68D__	Amazonia		68		16	Male	68D	10/10/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_106G__	Amazonia		106		12	Male	106G	11/1/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_106H__	Amazonia		106		12	Male	106H	4/16/2013	Brazil						cross-sectional		follow up	1106																																									Yes							
+Amazonia_157G__	Amazonia		157		5	Female	157G	4/11/2013	Brazil						cross-sectional		follow up	359																																									Yes							
+Amazonia_155E__	Amazonia		155		43	Female	155E	4/17/2012	Brazil						cross-sectional		follow up	740																																									Yes							
+Amazonia_08B__	Amazonia		8		41	Male	08B	7/1/2010	Brazil						cross-sectional		follow up	99	asymptomatic																					Negative		Positive								Positive			Negative						Yes							
+Amazonia_131A__	Amazonia		131		13	Female	131A	4/7/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_40A__	Amazonia		40		22	Female	40A	3/29/2010	Brazil						cross-sectional		original		asymptomatic																					Negative		Positive	10.03							Negative			Positive						Yes							
+Amazonia_66D__	Amazonia		66		52	Male	66D	10/19/2011	Brazil						cross-sectional		follow up	568																																									Yes							
+Amazonia_184H__	Amazonia		184		56	Male	184H	4/3/2013	Brazil						cross-sectional		follow up	1089																																									Yes							
+Amazonia_130G__	Amazonia		130		57	Male	130G	11/6/2012	Brazil						cross-sectional		follow up	944																																									Yes							
+Amazonia_174E__	Amazonia		174		15	Female	174E	4/16/2012	Brazil						cross-sectional		follow up	649																																									Yes							
+Amazonia_118B__	Amazonia		118		57	Male	118B	7/7/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_40G__	Amazonia		40		22	Female	40G	10/31/2012	Brazil						cross-sectional		follow up	947																																									Yes							
+Amazonia_159B__	Amazonia		159		29	Male	159B	7/5/2010	Brazil						cross-sectional		original		asymptomatic																					Positive		Positive	129.15							Negative			Positive						Yes							
+Amazonia_72E__	Amazonia		72		5	Female	72E	4/14/2012	Brazil						cross-sectional		follow up	648																																									Yes							
+Amazonia_114C__	Amazonia		114		18	Male	114C	3/24/2011	Brazil						cross-sectional		follow up	352																																									Yes							
+Amazonia_95B__	Amazonia		95		48	Male	95B	7/7/2010	Brazil						cross-sectional		follow up	93	asymptomatic																					Negative		Positive	5.41							Negative			Positive						Yes							
+Amazonia_154C__	Amazonia		154		51	Male	154C	4/5/2011	Brazil						cross-sectional		follow up	274																																									Yes							
+Amazonia_185D__	Amazonia		185		56	Male	185D	10/29/2011	Brazil						cross-sectional		follow up	567																																									Yes							
+Amazonia_151H__	Amazonia		151		14	Female	151H	4/22/2013	Brazil						cross-sectional		follow up	1109																																									Yes							
+Amazonia_158H__	Amazonia		158		63	Male	158H	4/16/2013	Brazil						cross-sectional		follow up	740																																									Yes							
+Amazonia_48A__	Amazonia		48		8	Male	48A	3/29/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_53C__	Amazonia		53		46	Female	53C	3/29/2011	Brazil						cross-sectional		follow up	357																																									Yes							
+Amazonia_51B__	Amazonia		51		56	Male	51B	6/28/2010	Brazil						cross-sectional		follow up	91																																									Yes							
+Amazonia_08A__	Amazonia		8		41	Male	08A	3/24/2010	Brazil						cross-sectional		original		asymptomatic																					Negative		Positive	5.98							Negative			Positive						Yes							
+Amazonia_90H__	Amazonia		90		29	Male	90H	4/19/2013	Brazil						cross-sectional		follow up	1110																																									Yes							
+Amazonia_89A__	Amazonia		89		21	Female	89A	4/5/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_71G__	Amazonia		71		6	Male	71G	10/22/2012	Brazil						cross-sectional		follow up	937																																									Yes							
+Amazonia_51E__	Amazonia		51		56	Male	51E	4/16/2012	Brazil						cross-sectional		follow up	749																																									Yes							
+Amazonia_132E__	Amazonia		132		39	Female	132E	4/17/2012	Brazil						cross-sectional		follow up	378																																									Yes							
+Amazonia_84G__	Amazonia		84		35	Male	84G	11/1/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_90A__	Amazonia		90		29	Male	90A	4/5/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_158C__	Amazonia		158		63	Male	158C	4/7/2011	Brazil						cross-sectional		original																																										Yes							
+Amazonia_81A__	Amazonia		81		49	Male	81A	3/30/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	10.06							Negative			Positive						Yes							
+Amazonia_151A__	Amazonia		151		14	Female	151A	4/9/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_163B__	Amazonia		163		10	Female	163B	7/5/2010	Brazil						cross-sectional		follow up	88																																									Yes							
+Amazonia_53A__	Amazonia		53		46	Female	53A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_01D__	Amazonia		1		3	Male	01D	10/11/2011	Brazil						cross-sectional		follow up	202																																									Yes							
+Amazonia_172D__	Amazonia		172		41	Male	172D	10/19/2011	Brazil						cross-sectional		follow up	558																																									Yes							
+Amazonia_184A__	Amazonia		184		56	Male	184A	4/10/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_53H__	Amazonia		53		46	Female	53H	4/3/2013	Brazil						cross-sectional		follow up	1093																																									Yes							
+Amazonia_160B__	Amazonia		160		28	Female	160B	7/3/2010	Brazil						cross-sectional		follow up	86	symptomatic																					Positive		Positive	834.98							Negative			Positive						Yes							
+Amazonia_07D__	Amazonia		7		16	Female	07D	10/10/2011	Brazil						cross-sectional		follow up	553																																									Yes							
+Amazonia_185G__	Amazonia		185		56	Male	185G	10/25/2012	Brazil						cross-sectional		follow up	929																																									Yes							
+Amazonia_65C__	Amazonia		65		38	Female	65C	3/25/2011	Brazil						cross-sectional		follow up	360																																									Yes							
+Amazonia_95G__	Amazonia		95		48	Male	95G	11/6/2012	Brazil						cross-sectional		follow up	946																																									Yes							
+Amazonia_51C__	Amazonia		51		56	Male	51C	3/29/2011	Brazil						cross-sectional		follow up	365	asymptomatic																					Negative		Positive	6.86							Negative			Positive						Yes							
+Amazonia_50G__	Amazonia		50		17	Male	50G	10/24/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_08G__	Amazonia		8		41	Male	08G	10/26/2012	Brazil						cross-sectional		follow up	947																																									Yes							
+Amazonia_118G__	Amazonia		118		57	Male	118G	11/1/2012	Brazil						cross-sectional		follow up	848																																									Yes							
+Amazonia_155A__	Amazonia		155		43	Female	155A	4/8/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	6.23							Negative			Positive						Yes							
+Amazonia_86A__	Amazonia		86		37	Female	86A	4/5/2010	Brazil						cross-sectional		original		symptomatic																					Positive		Positive	129.98							Negative			Positive						Yes							
+Amazonia_185E__	Amazonia		185		56	Male	185E	4/14/2012	Brazil						cross-sectional		follow up	735																																									Yes							
+Amazonia_152A__	Amazonia		152		15	Female	152A	4/9/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_124E__	Amazonia		124		5	Female	124E	4/16/2012	Brazil						cross-sectional		follow up	390																																									Yes							
+Amazonia_105G__	Amazonia		105		10	Male	105G	11/1/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_120B__	Amazonia		120		35	Male	120B	7/2/2010	Brazil						cross-sectional		follow up	87	symptomatic																					Negative		Positive	179.28							Negative			Positive						Yes							
+Amazonia_01C__	Amazonia		1		3	Male	01C	3/23/2011	Brazil						cross-sectional		original																																										Yes							
+Amazonia_173D__	Amazonia		173		36	Female	173D	10/19/2011	Brazil						cross-sectional		follow up	558																																									Yes							
+Amazonia_95C__	Amazonia		95		48	Male	95C	3/21/2011	Brazil						cross-sectional		follow up	350																																									Yes							
+Amazonia_47G__	Amazonia		47		9	Male	47G	4/5/2013	Brazil						cross-sectional		follow up	1103																																									Yes							
+Amazonia_50A__	Amazonia		50		17	Male	50A	3/29/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_160C__	Amazonia		160		28	Female	160C	3/25/2011	Brazil						cross-sectional		follow up	351																																									Yes							
+Amazonia_81C__	Amazonia		81		49	Male	81C	3/21/2011	Brazil						cross-sectional		follow up	356																																									Yes							
+Amazonia_87A__	Amazonia		87		46	Male	87A	4/5/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	9.91							Negative			Positive						Yes							
+Amazonia_70A__	Amazonia		70		10	Male	70A	3/30/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_07B__	Amazonia		7		16	Female	07B	7/3/2010	Brazil						cross-sectional		follow up	89																																									Yes							
+Amazonia_154B__	Amazonia		154		51	Male	154B	7/5/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_69C__	Amazonia		69		13	Female	69C	3/25/2011	Brazil						cross-sectional		follow up	360																																									Yes							
+Amazonia_105H__	Amazonia		105		10	Male	105H	4/19/2013	Brazil						cross-sectional		follow up	1109																																									Yes							
+Amazonia_48B__	Amazonia		48		8	Male	48B	7/1/2010	Brazil						cross-sectional		follow up	94																																									Yes							
+Amazonia_151G__	Amazonia		151		14	Female	151G	11/8/2012	Brazil						cross-sectional		follow up	944	symptomatic																					Positive		Positive	6596.99							Negative			Positive						Yes							
+Amazonia_53B__	Amazonia		53		46	Female	53B	6/30/2010	Brazil						cross-sectional		follow up	85	asymptomatic																					Negative		Positive								Positive			Negative						Yes							
+Amazonia_53D__	Amazonia		53		46	Female	53D	10/26/2011	Brazil						cross-sectional		follow up	568																																									Yes							
+Amazonia_107G__	Amazonia		107		15	Female	107G	11/1/2012	Brazil						cross-sectional		follow up	940																																									Yes							
+Amazonia_158D__	Amazonia		158		63	Male	158D	10/20/2011	Brazil						cross-sectional		follow up	196																																									Yes							
+Amazonia_185A__	Amazonia		185		56	Male	185A	4/10/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_66G__	Amazonia		66		52	Male	66G	10/22/2012	Brazil						cross-sectional		follow up	937																																									Yes							
+Amazonia_66E__	Amazonia		66		52	Male	66E	4/14/2012	Brazil						cross-sectional		follow up	746																																									Yes							
+Amazonia_53G__	Amazonia		53		46	Female	53G	10/24/2012	Brazil						cross-sectional		follow up	932																																									Yes							
+Amazonia_120E__	Amazonia		120		35	Male	120E	4/16/2012	Brazil						cross-sectional		follow up	741																																									Yes							
+Amazonia_155B__	Amazonia		155		43	Female	155B	7/5/2010	Brazil						cross-sectional		follow up	88	symptomatic																					Negative		Positive	136.78							Negative			Positive						Yes							
+Amazonia_172A__	Amazonia		172		41	Male	172A	4/9/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_53E__	Amazonia		53		46	Female	53E	4/18/2012	Brazil						cross-sectional		follow up	743																																									Yes							
+Amazonia_48E__	Amazonia		48		8	Male	48E	4/12/2012	Brazil						cross-sectional		follow up	745																																									Yes							
+Amazonia_174B__	Amazonia		174		15	Female	174B	7/7/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_104C__	Amazonia		104		36	Female	104C	3/21/2011	Brazil						cross-sectional		follow up	349																																									Yes							
+Amazonia_130D__	Amazonia		130		57	Male	130D	10/20/2011	Brazil						cross-sectional		follow up	561																																									Yes							
+Amazonia_95D__	Amazonia		95		48	Male	95D	10/14/2011	Brazil						cross-sectional		follow up	557																																									Yes							
+Amazonia_68A__	Amazonia		68		16	Male	68A	3/30/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_68E__	Amazonia		68		16	Male	68E	4/14/2012	Brazil						cross-sectional		follow up	746																																									Yes							
+Amazonia_159H__	Amazonia		159		29	Male	159H	4/16/2013	Brazil						cross-sectional		follow up	1016																																									Yes							
+Amazonia_51D__	Amazonia		51		56	Male	51D	10/27/2011	Brazil						cross-sectional		follow up	577																																									Yes							
+Amazonia_130H__	Amazonia		130		57	Male	130H	4/22/2013	Brazil						cross-sectional		follow up	1111																																									Yes							
+Amazonia_07A__	Amazonia		7		16	Female	07A	4/5/2010	Brazil						cross-sectional		original		symptomatic																					Positive		Positive	483.06							Negative			Positive						Yes							
+Amazonia_123E__	Amazonia		123		8	Male	123E	4/16/2012	Brazil						cross-sectional		follow up	390																																									Yes							
+Amazonia_65A__	Amazonia		65		38	Female	65A	3/30/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_86D__	Amazonia		86		37	Female	86D	10/25/2011	Brazil						cross-sectional		follow up	568																																									Yes							
+Amazonia_68H__	Amazonia		68		16	Male	68H	4/3/2013	Brazil						cross-sectional		follow up	1100																																									Yes							
+Amazonia_114D__	Amazonia		114		18	Male	114D	10/14/2011	Brazil						cross-sectional		follow up	556																																									Yes							
+Amazonia_131G__	Amazonia		131		13	Female	131G	10/31/2012	Brazil						cross-sectional		follow up	938																																									Yes							
+Amazonia_72G__	Amazonia		72		5	Female	72G	10/22/2012	Brazil						cross-sectional		follow up	839																																									Yes							
+Amazonia_94D__	Amazonia		94		47	Male	94D	10/10/2011	Brazil						cross-sectional		follow up	553																																									Yes							
+Amazonia_69A__	Amazonia		69		13	Female	69A	3/30/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_124H__	Amazonia		124		5	Female	124H	4/15/2013	Brazil						cross-sectional		follow up	754																																									Yes							
+Amazonia_173C__	Amazonia		173		36	Female	173C	3/25/2011	Brazil						cross-sectional		follow up	350																																									Yes							
+Amazonia_44A__	Amazonia		44		20	Female	44A	5/19/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_35C__	Amazonia		35		34	Female	35C	3/29/2011	Brazil						cross-sectional		follow up	365																																									Yes							
+Amazonia_105A__	Amazonia		105		10	Male	105A	4/6/2010	Brazil						cross-sectional		original																																										Yes							
+Amazonia_44C__	Amazonia		44		20	Female	44C	3/24/2011	Brazil						cross-sectional		follow up	309																																									Yes							
+Amazonia_120D__	Amazonia		120		35	Male	120D	10/11/2011	Brazil						cross-sectional		follow up	553																																									Yes							
+Amazonia_71D__	Amazonia		71		6	Male	71D	10/10/2011	Brazil						cross-sectional		follow up	559																																									Yes							
+Amazonia_01G__	Amazonia		1		3	Male	01G	10/22/2012	Brazil						cross-sectional		follow up	579																																									Yes							
+Amazonia_47E__	Amazonia		47		9	Male	47E	4/12/2012	Brazil						cross-sectional		follow up	745																																									Yes							
+Amazonia_149A__	Amazonia		149		41	Male	149A	4/9/2010	Brazil						cross-sectional		original		symptomatic																					Negative		Positive	62.25							Negative			Positive						Yes							
+Amazonia_118E__	Amazonia		118		57	Male	118E	4/18/2012	Brazil						cross-sectional		follow up	651																																									Yes							
+Amazonia_123C__	Amazonia		123		8	Male	123C	3/23/2011	Brazil						cross-sectional		original																																										Yes							
