@@ -1,4 +1,4 @@
-<ontologyMappings>
+<ontologymappings>
 
   <ontologySource>OBI</ontologySource>
   <ontologySource>ICEMR</ontologySource>
@@ -18,6 +18,7 @@
 
   <!-- Protocol Params -->
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
+    <name>date_sample_collected</name>
     <name>Collection date</name>
     <name>collection_timestamp</name>
     <name>Specimen Collection Date</name>
@@ -76,6 +77,212 @@
 
 
   <!-- Characteristics -->
+
+  <ontologyTerm source_id="ICEMR_abnormal_bleeding" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [abnormal_bleeding]</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_ards" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [ards]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_biosourcetype" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [BioSourceType]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_body_temperature" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [body_temperature]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_cerebral" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [cerebral]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_collection_type" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [collection_type]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_coma" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [coma]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_comments" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [comments]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_convulsions" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [convulsions]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_data_consent" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [data_consent]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_date_of_birth" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [date_of_birth]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_electrolyte_disturbances" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [electrolyte_disturbances]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_falciparum" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [falciparum]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_fever" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [fever]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_fever_duration" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [fever_duration]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_follow_up_day" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [follow_up_day]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_future_use_consent" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [future_use_consent]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gametocyte_density_by_microscope" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gametocyte_density_by_microscope]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gametocyte_density_by_rt_pcr" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gametocyte_density_by_rt_pcr]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gametocytes" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gametocytes]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gametocytes_detection_method" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gametocytes_detection_method]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gps_latitude" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gps_latitude]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gps_location" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gps_location]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gps_longitude" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gps_longitude]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_gps_other" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [gps_other]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_health_status" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [health_status]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_hemoglobin_level" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [hemoglobin_level]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_hospitalized" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [hospitalized]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_host_genetics" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [host_genetics]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_hypoglycemia" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [hypoglycemia]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_immune_responses" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [immune_responses]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_irb_number" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [irb_number]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_jaundice" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [jaundice]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_knowlesi" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [knowlesi]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_malariae" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [malariae]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_microscopy_result" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [microscopy_result]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_other_method" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [other_method]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_other_molecular" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [other_molecular]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_ovale" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [ovale]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_parasite_density_by_microscope" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [parasite_density_by_microscope]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [parasite_density_by_pcr]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_parasite_genetics" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [parasite_genetics]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_pcr_method" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [pcr_method]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_pcr_result" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [pcr_result]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_falciparum_gametocyte_density_by_microscope" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [P_falciparum_gametocyte_density_by_microscope]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_falciparum_parasite_density_by_microscope" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [P_falciparum_parasite_density_by_microscope]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_falciparum_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [p_falciparum_parasite_density_by_pcr]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_falciparum_parasite_density_by_rt_pcr" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [p_falciparum_parasite_density_by_rt_pcr]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_pregnancy_status" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [pregnancy_status]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_vivax_gametocyte_density_by_microscope" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [P_vivax_gametocyte_density_by_microscope]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_vivax_gametocyte_density_by_rt_pcr" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [p_vivax_gametocyte_density_by_rt_pcr]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_vivax_parasite_density_by_microscope" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [P_vivax_parasite_density_by_microscope]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_p_vivax_parasite_density_by_pcr" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [p_vivax_parasite_density_by_pcr]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_rdt_result" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [rdt_result]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_renal_failure" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [renal_failure]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_respiratory_distress" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [respiratory_distress]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_sample_id" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [sample_id]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_sample_origin" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [sample_origin]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_severe_anemia" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [severe_anemia]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_shock" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [shock]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_StrainOrLine" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [StrainOrLine]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_study_other" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [study_other]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_study_type" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [study_type]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_subject" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [subject]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_temperature" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [Temperature]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_temperature_measurement_method" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [temperature_measurement_method]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_type_of_rdt" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [type_of_rdt]</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_vivax" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [vivax]</name>
+  </ontologyTerm>
+
   <ontologyTerm source_id="OGMS_0000031" type="characteristicQualifier" parent="Source">
     <name>Source Disease</name>
     <name>Disease</name>  <!-- this is the term name -->
@@ -91,10 +298,11 @@
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
     <name>geographic location</name>
+    <name>Characteristics [GeographicLocation]</name>    
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
-    <name>country name</name>
+   <name>country name</name>
 	<name>country</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
