@@ -293,7 +293,7 @@
     <name>environmental material</name> <!-- this is the term name -->
   </ontologyTerm>
 
-  <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Extract">
     <name>haplogroup</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
