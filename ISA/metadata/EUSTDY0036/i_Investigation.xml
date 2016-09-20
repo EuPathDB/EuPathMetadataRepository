@@ -6,6 +6,13 @@
     <dataset></dataset>
 -->
 
+<dataset>tbruTREU927_HTS_SNP_Tb427_GeorgeCross_RSRC</dataset>
+
+<dataset>tbruTREU927_copyNumberVariations_Tb427_GeorgeCross_RSRC</dataset>
+
+
+
+
 <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="DNA extract" suffix="Extract"/>

@@ -5,6 +5,16 @@
 TriTrypDB/lbraMHOMBR75M2904/SNP/Mottram_Multiple_HTS_SNPs and TriTrypDB/linfJPCM5/SNP/Mottram_Multiple_HTS_SNPs and TriTrypDB/lmajFriedlin/SNP/Mottram_Multiple_HTS_SNPs and TriTrypDB/lmexMHOMGT2001U1103/SNP/Mottram_Multiple_HTS_SNPs
 -->
 
+<dataset>lbraMHOMBR75M2904_HTS_SNP_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>lbraMHOMBR75M2904_copyNumberVariations_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>linfJPCM5_HTS_SNP_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>linfJPCM5_copyNumberVariations_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>lmajFriedlin_HTS_SNP_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>lmajFriedlin_copyNumberVariations_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>lmexMHOMGT2001U1103_HTS_SNP_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+<dataset>lmexMHOMGT2001U1103_copyNumberVariations_Mottram_Multiple_HTS_SNPs_RSRC</dataset>
+
+
 <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="DNA extract" suffix="Extract"/>

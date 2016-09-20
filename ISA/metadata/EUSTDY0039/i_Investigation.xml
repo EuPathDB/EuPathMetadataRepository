@@ -3,8 +3,15 @@
   <study fileName="s_study_sample.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
 
 <!-- TriTrypDB/lbraMHOMBR75M2904/SNP/WhitePaperNGS and TriTrypDB/lmajFriedlin/SNP/WhitePaperNGS and TriTrypDB/tcruCLBrenerEsmeraldo-like/SNP/WhitePaperNGS and TriTrypDB/tcruCLBrenerNon-Esmeraldo-like/SNP/WhitePaperNGS and TriTrypDB/tcruCLBrener/SNP/WhitePaperNGS/
-    <dataset></dataset>
 -->
+
+<dataset>lbraMHOMBR75M2904_HTS_SNP_WhitePaperNGS_RSRC</dataset>
+<dataset>lbraMHOMBR75M2904_copyNumberVariations_WhitePaperNGS_RSRC</dataset>
+<dataset>lmajFriedlin_HTS_SNP_WhitePaperNGS_RSRC</dataset>
+<dataset>lmajFriedlin_copyNumberVariations_WhitePaperNGS_RSRC</dataset>
+<dataset>tcruCLBrenerEsmeraldo-like_HTS_SNP_WhitePaperNGS_RSRC</dataset>
+<dataset>tcruCLBrenerNon-Esmeraldo-like_HTS_SNP_WhitePaperNGS_RSRC</dataset>
+<dataset>tcruCLBrener_HTS_SNP_WhitePaperNGS_RSRC</dataset>
 
 <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  

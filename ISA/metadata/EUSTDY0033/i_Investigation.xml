@@ -6,6 +6,10 @@
     <dataset></dataset>
 -->
 
+
+<dataset>ldonBPK282A1_HTS_SNP_Indian_SOLiD_Isolates_RSRC</dataset>
+<dataset>ldonBPK282A1_copyNumberVariations_Indian_SOLiD_Isolates_RSRC</dataset>
+
 <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="DNA extract" suffix="Extract"/>

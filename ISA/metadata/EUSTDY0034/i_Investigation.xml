@@ -6,6 +6,11 @@
     <dataset></dataset>
 -->
 
+<dataset>tevaSTIB805_HTS_SNP_Schnauffer_genome_sequence_reads_RSRC</dataset>
+
+<dataset>tevaSTIB805_copyNumberVariations_Schnauffer_genome_sequence_reads_RSRC</dataset>
+
+
 <node name="Source" type="host" suffix="Source"/>  
     <node name="Sample" type="sample from organism"/>  
     <node name="Extract" type="DNA extract" suffix="Extract"/>
