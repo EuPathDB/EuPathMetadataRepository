@@ -22,6 +22,7 @@
     <name>Collection date</name>
     <name>collection_timestamp</name>
     <name>Specimen Collection Date</name>
+    <name>Characteristics [date_sample_collected]</name>
     <function>formatDate</function> 
   </ontologyTerm>
   <ontologyTerm source_id="UO_0000036" type="protocolParameter" parent="specimen collection">
@@ -89,6 +90,9 @@
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_body_temperature" type="characteristicQualifier" parent="Source">
     <name>Characteristics [body_temperature]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_blood_smear_summary" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [blood_smear_summary]</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_cerebral" type="characteristicQualifier" parent="Source">
     <name>Characteristics [cerebral]</name>    
@@ -276,6 +280,16 @@
   <ontologyTerm source_id="ICEMR_temperature_measurement_method" type="characteristicQualifier" parent="Source">
     <name>Characteristics [temperature_measurement_method]</name>    
   </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_time_to_reinfection" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [time_to_reinfection]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_time_to_first_malaria_dx" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [time_to_first_malaria_dx]</name>    
+  </ontologyTerm>
+  <ontologyTerm source_id="ICEMR_end_of_observation_period" type="characteristicQualifier" parent="Source">
+    <name>Characteristics [end_of_observation_period]</name>    
+  </ontologyTerm>
+end_of_observation_period
   <ontologyTerm source_id="ICEMR_type_of_rdt" type="characteristicQualifier" parent="Source">
     <name>Characteristics [type_of_rdt]</name>
   </ontologyTerm>
@@ -316,6 +330,7 @@
 
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
+    <name>Characteristics [age]</name>
     <name>PATO_0000011</name>
     <function>splitUnitFromValue</function>
   </ontologyTerm>
@@ -413,9 +428,12 @@
   <ontologyTerm source_id="PATO_0000383" type="characteristicValue" parent="characteristicQualifier">
     <name>female</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier"
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
+    <name>Kenya</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:multi-cellular organism</name>
