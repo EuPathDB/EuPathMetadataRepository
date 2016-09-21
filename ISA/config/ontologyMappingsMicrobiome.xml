@@ -75,28 +75,6 @@
 
 
   <!-- Characteristics -->
-  <!-- JB added-->
-  <ontologyTerm source_id="ENVO_01000773" type="characteristicQualifier" parent="Source">
-    <name>village</name>
-  </ontologyTerm>
-  <!-- JB added-->
-  <ontologyTerm source_id="MICRO_0000129" type="characteristicQualifier" parent="Source">
-    <name>host_subject_id</name>
-  </ontologyTerm>
-  <!-- JB added-->
-  <ontologyTerm source_id="MiXS_env_material" type="characteristicQualifier" parent="Source">
-    <name>env</name>
-    <name>env_material</name>
-  </ontologyTerm>
-  <!-- JB added-->
-  <ontologyTerm source_id="MiXS_host_body_site" type="characteristicQualifier" parent="Source">
-    <name>body_site_detail</name>
-  </ontologyTerm>
-
-
-
-
-
   <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
     <name>geographic location</name>
     <function>valueIsOntologyTerm</function>
@@ -234,6 +212,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000408" type="characteristicQualifier" parent="Source">
     <name>geo_loc_name</name>
+    <name>village</name>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000431" type="characteristicQualifier" parent="Sample">
     <name>samp_collect_device</name>
@@ -451,6 +430,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000071" type="characteristicQualifier" parent="Source">
     <name>subject</name>
+    <name>host_subject_id</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000072" type="characteristicQualifier" parent="Source">
     <name>subject_surface</name>
@@ -472,15 +452,9 @@
   </ontologyTerm>
   
 <!-- characteristicValues -->
-
-  <!-- JB added-->
   <ontologyTerm source_id="ENVO_00005803" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:animal-associated habitat</name>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_01000739" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:human-associated habitat</name>
-  </ontologyTerm>
-
   <ontologyTerm source_id="PATO_0000384" type="characteristicValue" parent="characteristicQualifier">
     <name>male</name>
   </ontologyTerm>
@@ -531,11 +505,6 @@
     <name>ENVO:organic material</name>
     <name>organic material</name>
   </ontologyTerm>
-
-
-
-
-
   <ontologyTerm source_id="ENVO_00002008" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:dust</name>
   </ontologyTerm>
@@ -569,6 +538,7 @@
 <ontologyTerm source_id="UBERON_0000912" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:mucus</name>
     <name>ENVO:mucus</name>
+    <name>mucus</name>
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0000996" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:vagina</name>
@@ -577,6 +547,9 @@
     <name>UBERON:skin</name>
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0001084" type="characteristicValue" parent="characteristicQualifier">
+    <name>UBERON:skin of head</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001519" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:skin of hand</name>
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0001091" type="characteristicValue" parent="characteristicQualifier">
@@ -604,14 +577,18 @@
 <ontologyTerm source_id="UBERON_0001836" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:saliva</name>
     <name>ENVO:saliva</name>
+    <name>saliva</name>
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0001866" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:sebum</name>
     <name>ENVO:sebum</name>
+    <name>sebum</name>
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0001988" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:feces</name>
     <name>ENVO:feces</name>
+    <name>feces</name>
+    <name>stool</name>
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0002373" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:palatine tonsil</name>
@@ -645,6 +622,14 @@
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0016486" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:posterior fornix of vagina</name>
+  </ontologyTerm>
+<ontologyTerm source_id="MBIOM_1000002" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:human-associated habitat</name>
+    <name>human-associated habitat</name>
+  </ontologyTerm>
+<ontologyTerm source_id="MBIOM_1000003" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:insecta-associated habitat</name>
+    <name>insecta-associated habitat</name>
   </ontologyTerm>
 
    <!--units-->

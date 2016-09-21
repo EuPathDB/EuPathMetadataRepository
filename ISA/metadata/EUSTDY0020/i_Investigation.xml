@@ -23,7 +23,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_797.txt" identifierSuffix="-2" sampleRegex="EUSMPL">
+  <study fileName="s_study_sample_797.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>otu_EMP_797_Song_Family_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -46,7 +46,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_1927.txt" identifierSuffix="-3" sampleRegex="EUSMPL">
+  <study fileName="s_study_sample_1927.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>otu_EMP_1927_HMP_V13_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -69,7 +69,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_1928.txt" identifierSuffix="-4" sampleRegex="EUSMPL">
+  <study fileName="s_study_sample_1928.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>otu_EMP_1928_HMP_V35_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -92,7 +92,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_2192.txt" identifierSuffix="-5" sampleRegex="EUSMPL">
+  <study fileName="s_study_sample_2192.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>otu_EMP_2192_Gilbert_House_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
@@ -115,7 +115,7 @@
     </edge>
   </study>
 
-  <study fileName="s_study_sample_10249.txt" identifierSuffix="-6" sampleRegex="EUSMPL">
+  <study fileName="s_study_sample_10249.txt" identifierSuffix="-1" sampleRegex="EUSMPL">
     <dataset>otu_EMP_10249_ECAM_RSRC</dataset>
 
     <node name="Source" type="host" suffix="Source"/>  
