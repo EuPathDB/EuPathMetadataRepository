@@ -459,7 +459,7 @@ end_of_observation_period
   <ontologyTerm source_id="PATO_0000383" type="characteristicValue" parent="characteristicQualifier">
     <name>female</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier"
+  <ontologyTerm source_id="GAZ_00002822" type="characteristicValue" parent="characteristicQualifier">
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
   </ontologyTerm>
