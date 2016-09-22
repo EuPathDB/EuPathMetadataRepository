@@ -30,6 +30,13 @@
     <name>Specimen Collection Year</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="EFO_0000264" type="protocolParameter" parent="sample preparation for assay">
+    <name>Antibody</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_23888" type="protocolParameter" parent="administration of material to specimen">
+        <name>Treatment</name>
+  </ontologyTerm>
+
   <!-- Material Entity Types -->
   <ontologyTerm source_id="GO_0018995" type="materialType">
     <name>host</name>
@@ -50,6 +57,12 @@
 
 
   <!-- Protocols -->
+
+  <ontologyTerm source_id="OBI_0000073" type="protocol">
+    <name>sample preparation for assay</name>
+  </ontologyTerm>
+
+
   <ontologyTerm source_id="OBI_0000659" type="protocol">
     <name>specimen collection</name>
   </ontologyTerm>
@@ -78,6 +91,24 @@
 
 
   <!-- Characteristics -->
+
+  <ontologyTerm source_id="UBERON_0000105" type="characteristicQualifier" parent="Source">
+    <name>LifeCycleStage</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EFO_0000513" type="characteristicQualifier" parent="Source">
+    <name>Genotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EFO_0000683" type="characteristicQualifier" parent="Source">
+    <name>Replicate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="PATO_0001034" type="characteristicQualifier" parent="Source">
+    <name>Strain</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EFO_0000324" type="characteristicQualifier" parent="Source">
+    <name>CellType</name>
+  </ontologyTerm>
+
+
 
   <ontologyTerm source_id="ICEMR_abnormal_bleeding" type="characteristicQualifier" parent="Source">
     <name>Characteristics [abnormal_bleeding]</name>
