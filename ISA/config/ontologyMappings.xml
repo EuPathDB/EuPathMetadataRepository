@@ -87,6 +87,12 @@
   <ontologyTerm source_id="IDO_0000586" type="protocol">
     <name>infection</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0600038" type="protocol">
+    <name>labeling</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0302903" type="protocol">
+    <name>nucleic acid hybridization</name>
+  </ontologyTerm>
 
 
 
