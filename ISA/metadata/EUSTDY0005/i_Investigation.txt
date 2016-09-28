@@ -32,13 +32,13 @@ Study Assay Technology Platform
 Comment[dataset_names]	pfal3D7_SNPChip_SNP_Chip_Artesunate_Resistance_RSRC														
 STUDY PROTOCOLS															
 Study Protocol Name	treatment	sample collection	extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation								
-Study Protocol Type	treatment	collecting specimen from organism	extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation								
+Study Protocol Type	treatment	sample collection	extraction	labeling	nucleic acid hybridization	data collection	sequence analysis data transformation								
 Study Protocol Type Term Accession Number	OGMS_0000090	OBI_0600005	OBI_0302884	OBI_0600038	OBI_0302903	OBI_0600013	OBI_0200187								
 Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI	OBI								
 Study Protocol Description															
 Study Protocol URI															
 Study Protocol Version															
-Study Protocol Parameters Name	administration of material to specimen	Collection Date;Year													
+Study Protocol Parameters Name	OBI_0000995	OBI_0001619;UO_0000036
 Study Protocol Parameters Name Term Accession Number	OBI_0000995	OBI_0001619;UO_0000036													
 Study Protocol Parameters Name Term Source REF	OBI	OBI;UO													
 Study Protocol Components Name															
