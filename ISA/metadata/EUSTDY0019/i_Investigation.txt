@@ -32,13 +32,13 @@ Study Assay Technology Platform
 Comment[dataset_names]	preiCDC_HTS_SNP_Sanger_Pfalciparum3D7_QuerySRA_RSRC													
 STUDY PROTOCOLS														
 Study Protocol Name	sample collection	DNA extraction	DNA Sequencing	data collection	sequence analysis data transformation									
-Study Protocol Type	collecting specimen from organism	DNA extraction	DNA Sequencing	data collection	sequence analysis data transformation									
+Study Protocol Type	sample collection	DNA extraction	DNA Sequencing	data collection	sequence analysis data transformation									
 Study Protocol Type Term Accession Number	OBI_0600005	OBI_0000257	OBI_0000626	OBI_0600013	OBI_0200187									
 Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI									
 Study Protocol Description														
 Study Protocol URI														
 Study Protocol Version														
-Study Protocol Parameters Name	Collection Date;Year													
+Study Protocol Parameters Name	OBI_0001619;UO_0000036													
 Study Protocol Parameters Name Term Accession Number	OBI_0001619;UO_0000036													
 Study Protocol Parameters Name Term Source REF	OBI;UO													
 Study Protocol Components Name														
