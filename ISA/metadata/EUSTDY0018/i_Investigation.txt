@@ -38,8 +38,8 @@ Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI	OBI	OBI
 Study Protocol Description														
 Study Protocol URI														
 Study Protocol Version														
-Study Protocol Parameters Name	OBI_0001619;UO_0000036	OBI_0000040	GO_0042571											
-Study Protocol Parameters Name Term Accession Number	OBI_0001619;UO_0000036	OBI_0000040	GO_0042571											
+Study Protocol Parameters Name	OBI_0001619;UO_0000036	OBI_0000040	EFO_0000264											
+Study Protocol Parameters Name Term Accession Number	OBI_0001619;UO_0000036	OBI_0000040	EFO_0000264											
 Study Protocol Parameters Name Term Source REF	OBI;UO	OBI	OBI											
 Study Protocol Components Name														
 Study Protocol Components Type														
