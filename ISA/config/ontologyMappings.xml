@@ -15,7 +15,6 @@
   <ontologySource>UO</ontologySource>
 
 
-
   <!-- Protocol Params -->
   <ontologyTerm source_id="OBI_0001619" type="protocolParameter" parent="specimen collection">
     <name>date_sample_collected</name>
@@ -467,6 +466,24 @@
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
   </ontologyTerm>
+
+
+  <ontologyTerm source_id="GAZ_00001107" type="characteristicValue" parent="characteristicQualifier">
+    <name>Zambia</name>
+  </ontologyTerm>
+
+
+  <ontologyTerm source_id="NCBITaxon_9606" type="characteristicValue" parent="characteristicQualifier">
+    <name>Homo sapien</name>
+  </ontologyTerm>
+
+
+
+
+
+
+
+
   <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
     <name>Kenya</name>
   </ontologyTerm>
