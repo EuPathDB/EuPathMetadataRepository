@@ -1,7 +1,7 @@
-Source Name	Description	Source	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [Host]	Characteristics [Host_Common_Name]	Characteristics [Strain]	Characteristics [Gender]	Characteristics [Age]
-EBABE_ATCC 30222	Genetic variability in Babesia microti, genome sequencing and assembly	blood smear	1950	Democratic Republic of the Congo	Congo Kinshasa	Thamnomys surdaster	Forest mouse	ATCC 30222	unknown	unknown
-EBABE_ATCC PRA-99	Genetic variability in Babesia microti, genome sequencing and assembly	blood smear	1973	USA	Nantucket Island, MA	Homo sapiens	Human	ATCC PRA-99	Female	49
-EBABE_GI	Genetic variability in Babesia microti, genome sequencing and assembly	blood smear	1981	USA	Nantucket Island, MA	Homo sapiens	Human	GI	unknown	unknown
-EBABE_Naushon	Genetic variability in Babesia microti, genome sequencing and assembly	blood smear	1986	USA	Naushon Island, MA	Ixodes scapularis	Black-legged deer tick	Naushon	N/A	N/A
-EBABE_GreenwichYale_Lab_Strain_1	Genetic variability in Babesia microti, genome sequencing and assembly	blood smear	2002	USA	Greenwich, CT	Peromyscus leucopus	White-footed mouse	GreenwichYale_Lab_strain_1 	unknown	unknown
-EBABE_Nan_Hs_2011_N11-50	Genetic variability in Babesia microti, genome sequencing and assembly	blood smear	2011	USA	Nantucket Island, MA	Homo sapiens	Human	Nan_Hs_2011_N11-50	Male	unknown
+Source Name	Description	Source Override	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [Host]	Characteristics [Host_Common_Name]	Characteristics [Strain]	Characteristics [Gender]	Characteristics [Age]	Characteristics [BioSourceType]
+EBABE_ATCC 30222	Genetic variability in Babesia microti, genome sequencing and assembly		1950	Democratic Republic of the Congo	Congo Kinshasa	Thamnomys surdaster	Forest mouse	ATCC 30222	unknown	unknown	blood smear
+EBABE_ATCC PRA-99	Genetic variability in Babesia microti, genome sequencing and assembly		1973	USA	Nantucket Island, MA	Homo sapiens	Human	ATCC PRA-99	Female	49	blood smear
+EBABE_GI	Genetic variability in Babesia microti, genome sequencing and assembly		1981	USA	Nantucket Island, MA	Homo sapiens	Human	GI	unknown	unknown	blood smear
+EBABE_Naushon	Genetic variability in Babesia microti, genome sequencing and assembly		1986	USA	Naushon Island, MA	Ixodes scapularis	Black-legged deer tick	Naushon	N/A	N/A	blood smear
+EBABE_GreenwichYale_Lab_Strain_1	Genetic variability in Babesia microti, genome sequencing and assembly		2002	USA	Greenwich, CT	Peromyscus leucopus	White-footed mouse	GreenwichYale_Lab_strain_1 	unknown	unknown	blood smear
+EBABE_Nan_Hs_2011_N11-50	Genetic variability in Babesia microti, genome sequencing and assembly		2011	USA	Nantucket Island, MA	Homo sapiens	Human	Nan_Hs_2011_N11-50	Male	unknown	blood smear
