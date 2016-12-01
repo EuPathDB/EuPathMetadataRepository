@@ -1,4 +1,4 @@
-Source Name	Description	Source Override	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [Host]	Characteristics [Host_Common_Name]	Characteristics [Strain]	Characteristics [Gender]	Characteristics [Age]	Characteristics [BioSourceType]
+Name	Description	Source Override	Characteristics [date_sample_collected]	Characteristics [country]	Characteristics [GeographicLocation]	Characteristics [Host]	Characteristics [Host_Common_Name]	Characteristics [Strain]	Characteristics [Gender]	Characteristics [Age]	Characteristics [BioSourceType]
 EBABE_ATCC 30222	Genetic variability in Babesia microti, genome sequencing and assembly		1950	Democratic Republic of the Congo	Congo Kinshasa	Thamnomys surdaster	Forest mouse	ATCC 30222	unknown	unknown	blood smear
 EBABE_ATCC PRA-99	Genetic variability in Babesia microti, genome sequencing and assembly		1973	USA	Nantucket Island, MA	Homo sapiens	Human	ATCC PRA-99	Female	49	blood smear
 EBABE_GI	Genetic variability in Babesia microti, genome sequencing and assembly		1981	USA	Nantucket Island, MA	Homo sapiens	Human	GI	unknown	unknown	blood smear
