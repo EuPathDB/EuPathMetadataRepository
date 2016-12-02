@@ -119,7 +119,7 @@
     <name>env_matter</name>
    <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="BFO_0000023" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="REO_0000699" type="characteristicQualifier" parent="Source">
     <name>role</name>
     <name>age_group</name>
   </ontologyTerm>
@@ -190,6 +190,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000111" type="characteristicQualifier" parent="Source">
     <name>diet</name>
+    <name>diet_2</name>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000114" type="characteristicQualifier" parent="Source">
     <name>family_relationship</name>
@@ -218,22 +219,16 @@
     <name>samp_collect_device</name>
   </ontologyTerm>
 <!-- Temporary Identfiers, May be replaced -->
-    <ontologyTerm source_id="MBIOM_0000001" type="characteristicQualifier" parent="Source">
-    <name>abx_all_sources</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000002" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000462" type="characteristicQualifier" parent="Source">
     <name>abx_name</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000003" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000463" type="characteristicQualifier" parent="Source">
     <name>abx_pmp_all</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000004" type="characteristicQualifier" parent="Source">
-    <name>abx1_pmp_all_bymonth</name>
-  </ontologyTerm>
-    <ontologyTerm source_id="MBIOM_0000005" type="characteristicQualifier" parent="Source">
+    <ontologyTerm source_id="MICRO_0000465" type="characteristicQualifier" parent="Source">
     <name>anonymized_name</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000006" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000466" type="characteristicQualifier" parent="Source">
     <name>antiexposedall</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000007" type="characteristicQualifier" parent="Source">
@@ -242,37 +237,31 @@
     <ontologyTerm source_id="MBIOM_0000008" type="characteristicQualifier" parent="Sample">
     <name>body_site_free_text</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000009" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000467" type="characteristicQualifier" parent="Source">
     <name>collection_timestamp</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000010" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000468" type="characteristicQualifier" parent="Source">
     <name>colony_tetracycline</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000011" type="characteristicQualifier" parent="Sample">
     <name>common_name</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000012" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000408" type="characteristicQualifier" parent="Source">
     <name>country</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000013" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000469" type="characteristicQualifier" parent="Source">
     <name>course_num</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000014" type="characteristicQualifier" parent="Source">
-    <name>day</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000015" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000471" type="characteristicQualifier" parent="Source">
     <name>day_of_life</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000016" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000472" type="characteristicQualifier" parent="Source">
     <name>delivery</name>
   </ontologyTerm>
-    <ontologyTerm source_id="MBIOM_0000017" type="characteristicQualifier" parent="Source">
-    <name>diet_2</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000018" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000474" type="characteristicQualifier" parent="Source">
     <name>diet_2_month</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000019" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000475" type="characteristicQualifier" parent="Source">
     <name>diet_3</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000020" type="characteristicQualifier" parent="Sample">
@@ -281,13 +270,10 @@
  <ontologyTerm source_id="MBIOM_0000021" type="characteristicQualifier" parent="Source">
     <name>env_free_text</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000022" type="characteristicQualifier" parent="Source">
-    <name>env_package</name>
-  </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000023" type="characteristicQualifier" parent="Sample">
     <name>extracted_dna_avail_now</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000024" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000476" type="characteristicQualifier" parent="Source">
     <name>family</name>
   </ontologyTerm>
    <ontologyTerm source_id="MBIOM_0000025" type="characteristicQualifier" parent="Sample">
@@ -299,7 +285,7 @@
     <ontologyTerm source_id="MBIOM_0000027" type="characteristicQualifier" parent="Source">
     <name>host_scientific_name</name>
   </ontologyTerm>
-   <ontologyTerm source_id="MBIOM_0000028" type="characteristicQualifier" parent="Source">
+   <ontologyTerm source_id="MICRO_0000477" type="characteristicQualifier" parent="Source">
     <name>house</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000029" type="characteristicQualifier" parent="Source">
@@ -311,28 +297,28 @@
   <ontologyTerm source_id="MBIOM_0000031" type="characteristicQualifier" parent="Source">
     <name>house_surface</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000032" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000478" type="characteristicQualifier" parent="Source">
     <name>larval_tetracycline</name>
   </ontologyTerm>
- <ontologyTerm source_id="MBIOM_0000033" type="characteristicQualifier" parent="Source">
+ <ontologyTerm source_id="MICRO_0000479" type="characteristicQualifier" parent="Source">
     <name>mom_child</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000034" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000480" type="characteristicQualifier" parent="Source">
     <name>mom_courses_ofdeliveryabx</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000035" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000481" type="characteristicQualifier" parent="Source">
     <name>mom_ld_abx</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000036" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000482" type="characteristicQualifier" parent="Source">
     <name>mom_pre_post_ld</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000037" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000483" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000038" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000484" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx_class</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000039" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000485" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx_trimester</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000040" type="characteristicQualifier" parent="Source">
@@ -341,28 +327,28 @@
   <ontologyTerm source_id="MBIOM_0000041" type="characteristicQualifier" parent="Source">
     <name>month_of_life</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000042" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000486" type="characteristicQualifier" parent="Source">
     <name>move_time</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000043" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000487" type="characteristicQualifier" parent="Source">
     <name>moved</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000044" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000488" type="characteristicQualifier" parent="Source">
     <name>notes</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000045" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000489" type="characteristicQualifier" parent="Source">
     <name>number_children</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000046" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000490" type="characteristicQualifier" parent="Source">
     <name>number_residents_human</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000047" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000491" type="characteristicQualifier" parent="Source">
     <name>percent_adult_residents</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000048" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000492" type="characteristicQualifier" parent="Source">
     <name>percent_male</name>
   </ontologyTerm>
-   <ontologyTerm source_id="MBIOM_0000049" type="characteristicQualifier" parent="Source">
+   <ontologyTerm source_id="MICRO_0000493" type="characteristicQualifier" parent="Source">
     <name>physical_location</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000050" type="characteristicQualifier" parent="Source">
@@ -371,23 +357,17 @@
   <ontologyTerm source_id="MBIOM_0000051" type="characteristicQualifier" parent="Source">
     <name>physical_specimen_remaining</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000052" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000494" type="characteristicQualifier" parent="Source">
     <name>psn</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000053" type="characteristicQualifier" parent="Source">
-    <name>public</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000054" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000495" type="characteristicQualifier" parent="Source">
     <name>region</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000055" type="characteristicQualifier" parent="Source">
     <name>required_sample_info_status</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000056" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000496" type="characteristicQualifier" parent="Source">
     <name>run_prefix_prep</name>
-  </ontologyTerm>
-    <ontologyTerm source_id="MBIOM_0000057" type="characteristicQualifier" parent="Sample">
-    <name>sample_common_name</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000058" type="characteristicQualifier" parent="Sample">
     <name>sample_name_in_tube</name>
@@ -404,47 +384,41 @@
   <ontologyTerm source_id="MBIOM_0000062" type="characteristicQualifier" parent="Sample">
     <name>sample_tube_id</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000063" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sample_type</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000064" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sampletype</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000065" type="characteristicQualifier" parent="Sample">
     <name>scientific_name</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000066" type="characteristicQualifier" parent="Sample">
+  <ontologyTerm source_id="MICRO_0000499" type="characteristicQualifier" parent="Sample">
     <name>sequencecenter</name>
   </ontologyTerm>
-    <ontologyTerm source_id="MBIOM_0000067" type="characteristicQualifier" parent="Source">
+    <ontologyTerm source_id="MICRO_0000500" type="characteristicQualifier" parent="Source">
     <name>source</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000068" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000500" type="characteristicQualifier" parent="Source">
     <name>source1</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000069" type="characteristicQualifier" parent="Source">
     <name>sourcesink</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000070" type="characteristicQualifier" parent="Source">
-    <name>studyid</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000071" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000501" type="characteristicQualifier" parent="Source">
     <name>subject</name>
     <name>host_subject_id</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000072" type="characteristicQualifier" parent="Source">
     <name>subject_surface</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000073" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000502" type="characteristicQualifier" parent="Source">
     <name>surface</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000074" type="characteristicQualifier" parent="Source">
-    <name>taxon_id</name>
   </ontologyTerm>
   <ontologyTerm source_id="MBIOM_0000075" type="characteristicQualifier" parent="Source">
     <name>time</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MBIOM_0000076" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="MICRO_0000503" type="characteristicQualifier" parent="Source">
     <name>title</name>
   </ontologyTerm>
   <ontologyTerm source_id="MICRO_0000132" type="characteristicQualifier" parent="Source">
@@ -454,6 +428,9 @@
 <!-- characteristicValues -->
   <ontologyTerm source_id="ENVO_00005803" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:animal-associated habitat</name>
+  </ontologyTerm>
+ <ontologyTerm source_id="ENVO_01000744" type="characteristicValue" parent="characteristicQualifier">
+    <name>ENVO:human-associated habitat</name>
   </ontologyTerm>
   <ontologyTerm source_id="PATO_0000384" type="characteristicValue" parent="characteristicQualifier">
     <name>male</name>
@@ -622,10 +599,6 @@
   </ontologyTerm>
 <ontologyTerm source_id="UBERON_0016486" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:posterior fornix of vagina</name>
-  </ontologyTerm>
-<ontologyTerm source_id="MBIOM_1000002" type="characteristicValue" parent="characteristicQualifier">
-    <name>ENVO:human-associated habitat</name>
-    <name>human-associated habitat</name>
   </ontologyTerm>
 <ontologyTerm source_id="MBIOM_1000003" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:insecta-associated habitat</name>
