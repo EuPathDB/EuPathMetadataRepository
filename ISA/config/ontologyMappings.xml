@@ -344,16 +344,20 @@
   <ontologyTerm source_id="EUPATH_0000289" type="characteristicQualifier" parent="Extract">
     <name>haplogroup</name>
   </ontologyTerm>
+
   <ontologyTerm source_id="GAZ_00000448" type="characteristicQualifier" parent="Source">
     <name>geographic location</name>
     <name>GeographicLocation</name>    
+    <name>country</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
+<!--
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
    <name>country name</name>
-	<name>country</name>
+
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
+-->
   <ontologyTerm source_id="OBI_0100026" type="characteristicQualifier" parent="Source">
     <name>organism</name>
     <function>valueIsOntologyTerm</function>
@@ -466,23 +470,12 @@
     <name>GAZ:Puerto Rico</name>
     <name>Puerto Rico</name>
   </ontologyTerm>
-
-
   <ontologyTerm source_id="GAZ_00001107" type="characteristicValue" parent="characteristicQualifier">
     <name>Zambia</name>
   </ontologyTerm>
-
-
   <ontologyTerm source_id="NCBITaxon_9606" type="characteristicValue" parent="characteristicQualifier">
     <name>Homo sapien</name>
   </ontologyTerm>
-
-
-
-
-
-
-
 
   <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
     <name>Kenya</name>
