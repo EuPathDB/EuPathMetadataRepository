@@ -351,6 +351,11 @@
     <name>country</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
+
+  <ontologyTerm source_id="ENVO_00000856" type="characteristicQualifier" parent="Source">
+    <name>city</name>
+  </ontologyTerm>
+
 <!--
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
    <name>country name</name>
@@ -375,6 +380,7 @@
 
   <ontologyTerm source_id="PATO_0000047" type="characteristicQualifier" parent="Source">
     <name>sex</name>
+    <name>gender</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
@@ -475,11 +481,27 @@
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_9606" type="characteristicValue" parent="characteristicQualifier">
     <name>Homo sapien</name>
+    <name>Homo sapiens</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_491861" type="characteristicValue" parent="characteristicQualifier">
+    <name>Thamnomys surdaster</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_6945" type="characteristicValue" parent="characteristicQualifier">
+    <name>Ixodes scapularis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_10041" type="characteristicValue" parent="characteristicQualifier">
+    <name>Peromyscus leucopus</name>
   </ontologyTerm>
 
   <ontologyTerm source_id="GAZ_00001101" type="characteristicValue" parent="characteristicQualifier">
     <name>Kenya</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001086" type="characteristicValue" parent="characteristicQualifier">
+    <name>Democratic Republic of the Congo</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
+    <name>USA</name>
+  </ontologyTerm>  
   <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:multi-cellular organism</name>
     <name>multi-cellular organism</name>
