@@ -28,6 +28,10 @@
     <name>Year</name>
     <name>Specimen Collection Year</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001895" type="protocolParameter" parent="specimen collection">
+    <name>specimen collector</name>
+    <name>Characteristics [specimen collector]</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="EFO_0000264" type="protocolParameter" parent="sample preparation for assay">
     <name>Antibody</name>
@@ -60,8 +64,6 @@
   <ontologyTerm source_id="OBI_0000073" type="protocol">
     <name>sample preparation for assay</name>
   </ontologyTerm>
-
-
   <ontologyTerm source_id="OBI_0000659" type="protocol">
     <name>specimen collection</name>
   </ontologyTerm>
@@ -112,8 +114,14 @@
   <ontologyTerm source_id="EFO_0000324" type="characteristicQualifier" parent="Source">
     <name>CellType</name>
   </ontologyTerm>
-
-
+  <ontologyTerm source_id="EUPATH_0000499" type="characteristicQualifier" parent="Source">
+    <name>lab host</name>
+    <function>valueIsOntologyTerm</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="FLU_0001025" type="characteristicQualifier" parent="Source">
+    <name>passage history</name>
+    <name>passage history record</name>
+  </ontologyTerm>
 
   <ontologyTerm source_id="ICEMR_abnormal_bleeding" type="characteristicQualifier" parent="Source">
     <name>abnormal_bleeding</name>
@@ -482,6 +490,7 @@
   <ontologyTerm source_id="NCBITaxon_9606" type="characteristicValue" parent="characteristicQualifier">
     <name>Homo sapien</name>
     <name>Homo sapiens</name>
+    <name>human</name>
   </ontologyTerm>
   <ontologyTerm source_id="NCBITaxon_491861" type="characteristicValue" parent="characteristicQualifier">
     <name>Thamnomys surdaster</name>
@@ -541,6 +550,44 @@
   <ontologyTerm source_id="ENVO_01000155" type="characteristicValue" parent="characteristicQualifier">
     <name>ENVO:organic material</name>
     <name>organic material</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITAXON_9598" type="characteristicValue" parent="characteristicQualifier">
+    <name>Pan troglodytes</name>
+    <name>Pan troglodytes ellioti</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001093" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cameroon</name>
+    <name>Cameroon: Centre Region</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00001108" type="characteristicValue" parent="characteristicQualifier">
+    <name>Madagascar</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00006888" type="characteristicValue" parent="characteristicQualifier">
+    <name>Cambodia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002828" type="characteristicValue" parent="characteristicQualifier">
+    <name>Brazil</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00005200" type="characteristicValue" parent="characteristicQualifier">
+    <name>New Guinea</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002935" type="characteristicValue" parent="characteristicQualifier">
+    <name>El Salvador</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5855" type="characteristicValue" parent="characteristicQualifier">
+    <name>Plasmodium vivax</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9520" type="characteristicValue" parent="characteristicQualifier">
+    <name>squirrel monkey</name>
+    <name>Saimiri</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9527" type="characteristicValue" parent="characteristicQualifier">
+    <name>monkey</name>
+    <name>Cercopithecidae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_9505" type="characteristicValue" parent="characteristicQualifier">
+    <name>Aotus monkey</name>
+    <name>Aotus trivirgatus</name>
   </ontologyTerm>
 
   <ontologyTerm source_id="UO_0000036" type="unit">
