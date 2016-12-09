@@ -568,8 +568,8 @@
   <ontologyTerm source_id="GAZ_00002828" type="characteristicValue" parent="characteristicQualifier">
     <name>Brazil</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00005200" type="characteristicValue" parent="characteristicQualifier">
-    <name>New Guinea</name>
+  <ontologyTerm source_id="GAZ_00003922" type="characteristicValue" parent="characteristicQualifier">
+    <name>Papua New Guinea</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002935" type="characteristicValue" parent="characteristicQualifier">
     <name>El Salvador</name>

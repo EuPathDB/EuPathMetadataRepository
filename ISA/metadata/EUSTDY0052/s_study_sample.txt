@@ -7,4 +7,4 @@ C08				2011	Cambodia	Pailin	human	malaria	20 years	male	37.2	Plasmodium vivax	20
 C127				2011	Cambodia	Takavit 	human	malaria	14 years	male	40	Plasmodium vivax	20,000		
 Belem				1980	Brazil	Belem, Brazil	human	malaria				Plasmodium vivax		squirrel monkey	Mercia de Arruda
 Sal1_resequence1				1971	El Salvador	San Salvador	human	malaria				Plasmodium vivax		monkey	Central America Malaria Research Station
-Chesson				1944	New Guinea	Papua, New Guinea	human	malaria				Plasmodium vivax		Aotus monkey	Ehrman et al.
+Chesson				1944	Papua New Guinea	New Guinea	human	malaria				Plasmodium vivax		Aotus monkey	Ehrman et al.
