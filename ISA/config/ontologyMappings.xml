@@ -551,7 +551,7 @@
     <name>ENVO:organic material</name>
     <name>organic material</name>
   </ontologyTerm>
-  <ontologyTerm source_id="NCBITAXON_9598" type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="NCBITaxon_9598" type="characteristicValue" parent="characteristicQualifier">
     <name>Pan troglodytes</name>
     <name>Pan troglodytes ellioti</name>
   </ontologyTerm>
