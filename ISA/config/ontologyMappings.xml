@@ -50,6 +50,7 @@
 
   <ontologyTerm source_id="OBI_0000655" type="materialType">
     <name>blood specimen</name>
+    <name>blood</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0000671" type="materialType">
     <name>sample from organism</name>
@@ -57,7 +58,51 @@
   <ontologyTerm source_id="OBI_0001051" type="materialType">
     <name>DNA extract</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="OBI_0002512" type="materialType">
+    <name>Bone marrow</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000500" type="materialType">
+    <name>Bronchial wash</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000501" type="materialType">
+    <name>Bronchoalveolar lavage</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002502" type="materialType">
+    <name>Cerebral spinal fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002534 " type="materialType">
+    <name>Lung</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000502" type="materialType">
+    <name>Lung aspirate</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000503" type="materialType">
+    <name>Lung lesion</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000504" type="materialType">
+    <name>Lung mold bronch</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000505" type="materialType">
+    <name>Lung nodule</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_1110041" type="materialType">
+    <name>Lymph node</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002515" type="materialType">
+    <name>Pleural fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0002508" type="materialType">
+    <name>Sputum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000506" type="materialType">
+    <name>TGH</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000507" type="materialType">
+    <name>TGH mold iso</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0100051" type="materialType">
+    <name>specimen</name>
+  </ontologyTerm>
 
   <!-- Protocols -->
 
@@ -122,6 +167,11 @@
     <name>passage history</name>
     <name>passage history record</name>
   </ontologyTerm>
+  <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
+    <name>alternative sample ID</name>
+  </ontologyTerm>
+
+
 
   <ontologyTerm source_id="ICEMR_abnormal_bleeding" type="characteristicQualifier" parent="Source">
     <name>abnormal_bleeding</name>
@@ -588,6 +638,26 @@
   <ontologyTerm source_id="NCBITaxon_9505" type="characteristicValue" parent="characteristicQualifier">
     <name>Aotus monkey</name>
     <name>Aotus trivirgatus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5501" type="characteristicValue" parent="characteristicQualifier">
+    <name>C. immitis</name>
+    <name>Coccidioides immitis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_199306" type="characteristicValue" parent="characteristicQualifier">
+    <name>C. posadasii</name>
+    <name>Coccidioides posadasii</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002928 " type="characteristicValue" parent="characteristicQualifier">
+    <name>Argentina</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
+    <name>Guatemala</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002852" type="characteristicValue" parent="characteristicQualifier">
+    <name>Mexico</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002933" type="characteristicValue" parent="characteristicQualifier">
+    <name>Paraguay</name>
   </ontologyTerm>
 
   <ontologyTerm source_id="UO_0000036" type="unit">
