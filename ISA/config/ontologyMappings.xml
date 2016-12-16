@@ -70,7 +70,7 @@
   <ontologyTerm source_id="OBI_0002502" type="materialType">
     <name>Cerebral spinal fluid</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0002534 " type="materialType">
+  <ontologyTerm source_id="OBI_0002534" type="materialType">
     <name>Lung</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000502" type="materialType">
@@ -647,7 +647,7 @@
     <name>C. posadasii</name>
     <name>Coccidioides posadasii</name>
   </ontologyTerm>
-  <ontologyTerm source_id="GAZ_00002928 " type="characteristicValue" parent="characteristicQualifier">
+  <ontologyTerm source_id="GAZ_00002928" type="characteristicValue" parent="characteristicQualifier">
     <name>Argentina</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
