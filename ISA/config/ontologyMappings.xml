@@ -100,6 +100,9 @@
   <ontologyTerm source_id="EUPATH_0000507" type="materialType">
     <name>TGH mold iso</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0000511" type="materialType">
+    <name>lesion on arm specimen</name>
+  </ontologyTerm>
   <ontologyTerm source_id="OBI_0100051" type="materialType">
     <name>specimen</name>
   </ontologyTerm>
@@ -647,11 +650,17 @@
     <name>C. posadasii</name>
     <name>Coccidioides posadasii</name>
   </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5679" type="characteristicValue" parent="characteristicQualifier">
+    <name>Leishmania panamensis</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002928" type="characteristicValue" parent="characteristicQualifier">
     <name>Argentina</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002936" type="characteristicValue" parent="characteristicQualifier">
     <name>Guatemala</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002892" type="characteristicValue" parent="characteristicQualifier">
+    <name>Panama</name>
   </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002852" type="characteristicValue" parent="characteristicQualifier">
     <name>Mexico</name>
