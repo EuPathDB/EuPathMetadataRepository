@@ -624,6 +624,9 @@
   <ontologyTerm source_id="GAZ_00003922" type="characteristicValue" parent="characteristicQualifier">
     <name>Papua New Guinea</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002940" type="characteristicValue" parent="characteristicQualifier">
+    <name>France</name>
+  </ontologyTerm>
   <ontologyTerm source_id="GAZ_00002935" type="characteristicValue" parent="characteristicQualifier">
     <name>El Salvador</name>
   </ontologyTerm>
