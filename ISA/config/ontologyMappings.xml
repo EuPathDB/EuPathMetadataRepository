@@ -164,7 +164,6 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000499" type="characteristicQualifier" parent="Source">
     <name>lab host</name>
-    <function>valueIsOntologyTerm</function>
   </ontologyTerm>
   <ontologyTerm source_id="FLU_0001025" type="characteristicQualifier" parent="Source">
     <name>passage history</name>
