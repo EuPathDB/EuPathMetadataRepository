@@ -446,23 +446,8 @@
   <ontologyTerm source_id="OBI_0000198" type="characteristicQualifier" parent="Sample">
     <name>biological replicate</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MiXS_host_body_product" type="characteristicQualifier" parent="Sample">
-    <name>host_body_product</name>
-	<name>body_product</name>
-   <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="MiXS_host_body_site" type="characteristicQualifier" parent="Sample">
-    <name>host_body_site</name>
-    <name>body_site</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="MiXS_env_material" type="characteristicQualifier" parent="Sample">
-    <name>env_matter</name>
-   <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
   <ontologyTerm source_id="BFO_0000023" type="characteristicQualifier" parent="Source">
     <name>role</name>
-    <name>age_group</name>
   </ontologyTerm>
   <ontologyTerm source_id="ENVO_00000176" type="characteristicQualifier" parent="Source">
     <name>elevation</name>
@@ -505,23 +490,8 @@
   <ontologyTerm source_id="OGMS_0000027" type="characteristicQualifier" parent="Source">
     <name>clinical phenotype</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MiXS_host_body_habitat" type="characteristicQualifier" parent="Source">
-    <name>body_habitat</name>
-   <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="MiXS_env_biome" type="characteristicQualifier" parent="Source">
-    <name>env_biome</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="MiXS_env_feature" type="characteristicQualifier" parent="Source">
-    <name>env_feature</name>
-    <function>valueIsOntologyTerm</function>
-  </ontologyTerm>
-  <ontologyTerm source_id="MiXS_host_common_name" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
     <name>host_common_name</name>
-  </ontologyTerm>
-  <ontologyTerm source_id="MiXS_host_taxid" type="characteristicQualifier" parent="Source">
-    <name>host_taxid</name>
   </ontologyTerm>
 
 
