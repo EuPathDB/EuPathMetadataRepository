@@ -172,9 +172,6 @@
   <ontologyTerm source_id="OBI_0001901" type="characteristicQualifier" parent="Sample">
     <name>alternative sample ID</name>
   </ontologyTerm>
-
-
-
   <ontologyTerm source_id="ICEMR_abnormal_bleeding" type="characteristicQualifier" parent="Source">
     <name>abnormal_bleeding</name>
   </ontologyTerm>
@@ -186,6 +183,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_body_temperature" type="characteristicQualifier" parent="Source">
     <name>body_temperature</name>    
+    <name>temperature</name>
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_blood_smear_summary" type="characteristicQualifier" parent="Source">
     <name>blood_smear_summary</name>    
@@ -369,9 +367,6 @@
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_subject" type="characteristicQualifier" parent="Source">
     <name>subject</name>    
-  </ontologyTerm>
-  <ontologyTerm source_id="ICEMR_temperature" type="characteristicQualifier" parent="Source">
-    <name>Temperature</name>    
   </ontologyTerm>
   <ontologyTerm source_id="ICEMR_temperature_measurement_method" type="characteristicQualifier" parent="Source">
     <name>temperature_measurement_method</name>    
