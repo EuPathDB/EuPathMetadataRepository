@@ -411,6 +411,10 @@
     <name>city</name>
   </ontologyTerm>
 
+  <ontologyTerm source_id="UBERON_0001062" type="characteristicQualifier" parent="Source">
+    <name>organ part</name>
+  </ontologyTerm>
+
 <!--
   <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
    <name>country name</name>
