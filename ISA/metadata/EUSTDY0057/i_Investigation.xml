@@ -5,7 +5,7 @@
   <dataset>calbSC5314_HTS_SNP_Hirakawa_HTS_SNP_RSRC</dataset>
   <dataset>calbSC5314_copyNumberVariations_Hirakawa_HTS_SNP_RSRC</dataset>
 
-  <node name="Source" type="specimen" suffix="Source"/>  
+  <node name="Source" type="host" suffix="Source"/>  
   <node name="Sample" type="sample from organism"/>  
   <node name="Extract" type="DNA extract" suffix="Extract"/>
   <node name="Assay" suffix="DNA Sequencing"/>
