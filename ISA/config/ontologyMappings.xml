@@ -532,6 +532,21 @@
   <ontologyTerm source_id="GAZ_00002459" type="characteristicValue" parent="characteristicQualifier">
     <name>USA</name>
   </ontologyTerm>  
+  <ontologyTerm source_id="GAZ_00002560" type="characteristicValue" parent="characteristicQualifier">
+    <name>Canada</name>
+  </ontologyTerm>  
+  <ontologyTerm source_id="GAZ_00000558" type="characteristicValue" parent="characteristicQualifier">
+    <name>Turkey</name>
+  </ontologyTerm>  
+  <ontologyTerm source_id="GAZ_00000553" type="characteristicValue" parent="characteristicQualifier">
+    <name>South Africa</name>
+  </ontologyTerm>  
+  <ontologyTerm source_id="GAZ_00002476" type="characteristicValue" parent="characteristicQualifier">
+    <name>Israel</name>
+  </ontologyTerm>  
+  <ontologyTerm source_id="GAZ_00002938" type="characteristicValue" parent="characteristicQualifier">
+    <name>Belgium</name>
+  </ontologyTerm>  
   <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:multi-cellular organism</name>
     <name>multi-cellular organism</name>
